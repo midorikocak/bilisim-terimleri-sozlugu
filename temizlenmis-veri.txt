@@ -612,7 +612,7 @@ bottleneck layer: engel katmanı, Bir sinir ağını, giriş verisinin yoğun bi
 
 bottom-up: aşağıdan yukarıya, En alt düzeyden başlayan ve en üst düzeye doğru ilerleyen bir metot ya da yordama ait olma.
 
-bounding box: 1. karakter kutusu, bkz. character box 2. sınırlandırma kutusu, (Bilgisayar grafiğinde) Bir grafik nesnesinin çevresini saran ve bu grafik nesnesi seçildiğinde ortaya çıkabilen, normal olarak görünür olmayan dikdörtgen.
+bounding box: sınırlandırma kutusu, (Bilgisayar grafiğinde) Bir grafik nesnesinin çevresini saran ve bu grafik nesnesi seçildiğinde ortaya çıkabilen, normal olarak görünür olmayan dikdörtgen.
 
 box diagram: kutu diyagramı, Sıralı adımlar, yineleme ve koşullu deyimleri temsil eden sıralı ve iç içe kutulardan oluşan denetim akış diyagramı. NOT: Şekil 7.3’e bakınız.
 
@@ -744,7 +744,9 @@ carrier sense multiple access collision avoidance network: çakışma önleyen t
 
 carrier sense multiple access collision detection network: çakışma algılayan taşıyıcı dinleyen çoklu erişim ağı, Ortam erişim denetim protokolünün taşıyıcı dinleyeni gerektirdiği ve çakışma ile oluşan istisnai koşulların yeniden iletim ile çözüldüğü veri yolu ağı.
 
-carry: 1. (f.) taşımak, Bir elde sayısını aktarmak. 2. (i.) elde, Bir elde sayısını aktarma işlemi.
+carry: taşımak, Bir elde sayısını aktarmak.
+
+carry: elde, Bir elde sayısını aktarma işlemi.
 
 carry digit: elde sayısı, Bir basamak konumundaki bir toplam veya çarpım, asamakkonumunda gösterilebilecek ve başka bir yerde işlem görmek için aktarılan en büyük sayıyı aştığında üretien bir sayı. NOT: Konumsal gösterim sisteminde elde basamağı bir sonraki ağırlık konumuna, orada işlenmek üzere aktarılır.
 
@@ -2663,7 +2665,9 @@ indent: girintili yazdırmak, Bir satırı, kenar boşluğundan diğer satırlar
 
 independent compilation: bağımsız derleme, İlgili kaynak modüllerinden arayüz ve durum ilişkilerini temsil eden veriyi kullanmayan bir kaynak modülün derlenmesi. NOT: Bağımsız olarak derlenen birimler sonunda birleştirildiğinde arayüz ve durum verilerini doğruluk için denetlemek gerekli olabilir.
 
-index: 1. dizin, Yerleştirme referansları veya anahtarlarıyla birlikte, bir belge veya bir dosyanın içeriklerinin bir listesi. 2. indis, (Programlamada) Bir veri öğeleri dizisindeki bir veri öğesinin konumunu tanımlayan tam sayı.
+index: dizin, Yerleştirme referansları veya anahtarlarıyla birlikte, bir belge veya bir dosyanın içeriklerinin bir listesi. 
+
+index: indis, (Programlamada) Bir veri öğeleri dizisindeki bir veri öğesinin konumunu tanımlayan tam sayı.
 
 index hole: disk deliği, Diskin ilk sektörlerinin başlangıcını belirtmek için esnek disk üzerine açılan delik.
 
@@ -2919,11 +2923,13 @@ journalize: günlük raporlama, Bakım hizmetini kolaylaştırmak amacıyla, bir
 
 joystick: oyun çubuğu, En azından iki yönde hareket eden bir kolu ullanan bir konumlandırıcı cihaz veya bir işaretleme cihazı.
 
-jump: 1. sıçrama, Komut ya da deyimlerin sıralı yürütülmesinden ayrılma. NOT: Bir sıçramanın nedeni, asenkron kesinti ya da denetimin bir özel durum işleyiciye aktarıldığı bir özel durumdan kaynaklanan kesinti değil aksine uygun bir komut ya da deyimdir. 2. (f.) Komutlar ya da deyimlerin yürütüldüğü örtülü ya da tanımlanmış sıradan ayrılmak.
+jump: sıçrama, 1. Komut ya da deyimlerin sıralı yürütülmesinden ayrılma. NOT: Bir sıçramanın nedeni, asenkron kesinti ya da denetimin bir özel durum işleyiciye aktarıldığı bir özel durumdan kaynaklanan kesinti değil aksine uygun bir komut ya da deyimdir. 2. Komutlar ya da deyimlerin yürütüldüğü örtülü ya da tanımlanmış sıradan ayrılmak.
 
 jump instruction: sıçrama komutu, Bir sıçrama eylemini belirleyen komut.
 
-justify: 1. ayarlamak, Verinin belirlenen tarafındaki karakterin özel bir sayaç konumuna geleceği biçimde sayacın içeriğini kaydırmak. 2. iki yana hizalamak, (Metin işlemede) Her satır alanının ilk ve son karakterinin karşılık gelen kenar boşluklarına hizalanması yoluyla metni yatay olarak hizalama ya da metnin ilk ve son satırlarının onların karşılık gelen kenar alt ve üst kenar boşluklarına hizalanması yoluyla metnin dikey olarak hizalanması. NOT 1: Paragrafın son satırı genellikle iki tarafa hizalanmaz. NOT 2: Satırların (Japonca'da olduğu gibi) dikey olarak yazıldığı bir yazma sisteminde iki tarafa yaslama dikey şekildedir. 
+justify: ayarlamak, Verinin belirlenen tarafındaki karakterin özel bir sayaç konumuna geleceği biçimde sayacın içeriğini kaydırmak.
+
+justify: iki yana hizalamak, (Metin işlemede) Her satır alanının ilk ve son karakterinin karşılık gelen kenar boşluklarına hizalanması yoluyla metni yatay olarak hizalama ya da metnin ilk ve son satırlarının onların karşılık gelen kenar alt ve üst kenar boşluklarına hizalanması yoluyla metnin dikey olarak hizalanması. NOT 1: Paragrafın son satırı genellikle iki tarafa hizalanmaz. NOT 2: Satırların (Japonca'da olduğu gibi) dikey olarak yazıldığı bir yazma sisteminde iki tarafa yaslama dikey şekildedir. 
 
 Karnaugh map: Karnaugh Çizelgesi, 02.12.06], Lojik fonksiyonun değişkenleri- nin alt dikdörtgenlerle çizildiği dikdörtgenlerle gösterilen diyagram. Çakışan dikdörtgenlerin her kesişimi lojik değişkenlerin bir tek bileşimini belirtir ve bir kesişim tüm bileşimler için gösterilir.
 
@@ -3139,12 +3145,6 @@ lockout: kilitleme, Her defasında yalnızca bir aygıt ya da sürece erişim iz
 
 lock-out facility: kilitlenme olanağı, Hesap makinesinin hata ya da taşma durumu olduğunda giriş verisini kabul edememesi olanağı.
 
-log off: sistemi kapatmak, Bir sistemi kapatmak.
-
-log on: sistemi açmak, Bir sistemi açıp başlatmak.
-
-log out: 1. sistemden çıkmak, bkz. log off 2. günlük raporlama, bkz. journalize
-
 logger: günlük, Genellikle zamana bağlı olarak, olayları ve fiziksel koşulları kaydeden işlevsel birim.
 
 logic bomb: mantıksal bomba, Belirli bir sistem koşulu neticesinde tetiklendiğinde veri işlem sisteminin hasar görmesine neden olan kötü niyetli mantık.
@@ -3345,7 +3345,9 @@ margin: kenar boşluğu, Metin alanı ile sayfanın ya da ekranın dört kenarı
 
 mark scanning: işaret tarama, Bir veri ortamına kayıtlı işaretlerin optik olarak otomatik algılanması
 
-markup language: 1. işaretleme dili, Ham metni, yordamsal ve açıklayıcı işaretlemeyi ham metne ekleyerek yapısal belgelere dönüştürmek için tasarlanmış metin biçimlendirme dili. 2. bağlantılı metin dili, Bir belgenin içinde, onun işlenmesine yardım amacı ile bulunan gömülü komutlardan oluşan dil.
+markup language: işaretleme dili, Ham metni, yordamsal ve açıklayıcı işaretlemeyi ham metne ekleyerek yapısal belgelere dönüştürmek için tasarlanmış metin biçimlendirme dili.
+
+markup language: bağlantılı metin dili, Bir belgenin içinde, onun işlenmesine yardım amacı ile bulunan gömülü komutlardan oluşan dil.
 
 mask: maske, Bir karakter örüntüsündeki kısımların ayrıştırılması veya alıkoyulmasını kontrol etmek için kullanılan karakter örüntüsü.
 
@@ -3433,7 +3435,11 @@ message handling: ileti işleme, İleti aktarma ve ileti depolama alt işlemleri
 
 message handling environment: ileti işleme ortamı, İleti işleme sistemini, kullanıcıları ve dağıtım listelerini içeren ortam. NOT: Şekil 32.2’ye bakınız.
 
-message handling service: 1. ileti hazırlama ve yönetim hizmeti, Sistemler arasında elektronik iletilerin değişimi için genelleştirilmiş olanak sağlayan uygulama hizmeti. 2. ileti işleme hizmeti, Bir ileti işleme sistemi tarafından sağlanan hizmet. 3. ileti işleme sistemi, Bir kullanıcıdan ve/veya merkezden diğerine iletiler taşıyabilen düzenli işlevsel birimler topluluğu. NOT: Şekil 32.2’ye bakınız.
+message handling service: ileti hazırlama ve yönetim hizmeti, Sistemler arasında elektronik iletilerin değişimi için genelleştirilmiş olanak sağlayan uygulama hizmeti. 
+
+message handling service: ileti işleme hizmeti, Bir ileti işleme sistemi tarafından sağlanan hizmet. 
+
+message handling service: ileti işleme sistemi, Bir kullanıcıdan ve/veya merkezden diğerine iletiler taşıyabilen düzenli işlevsel birimler topluluğu. NOT: Şekil 32.2’ye bakınız.
 
 message identification service: ileti tanıma hizmeti, Bir ileti aktarma sisteminin sistem tarafından gönderilen veya dağıtılan her ileti veya sorgulama için benzersiz kimliği olan bir kullanıcı temsilcisi sağlamasına izin veren hizmet. ÖRNEK: Zaman etiketi.
 
@@ -3579,9 +3585,13 @@ multiple firing: çoklu ateşleme, Aynı başvuruda bilgiye defalarca erişmek i
 
 multiple-precision: çoklu duyarlık, Duyarlığı arttırmak için bir sayının gösterilişini iki ya da daha fazla bilgisayar sözcüğü kullanarak belirlemek.
 
-multiplexer: 1. çoklayıcı, (Veri iletişiminde) Farklı kaynaklardan gelen sinyalleri tek bir sinyalde birleştirmek için toplayan fonksiyonel birim. 2. çoğullayıcı, Birkaç giriş sinyali alan ve bu sinyalleri her bir giriş sinyalinin yeniden elde edilebileceği bir tarzda tek bir çıkış sinyali içinde birleştiren cihaz.
+multiplexer: çoklayıcı, (Veri iletişiminde) Farklı kaynaklardan gelen sinyalleri tek bir sinyalde birleştirmek için toplayan fonksiyonel birim.
 
-multiplexing: 1. çoklama, Birkaç ayrı kaynaktan toplanan sinyalleri tek bir iletim kanalı üzerinden iletim için tek bir sinyal içine birleştiren işlem. 2. çoğullama, (OSI'de) Belirli bir katman içinde, bu katmanın birden fazla bağlantısının bir alt katmanın bir (1) bağlantısı tarafından sağlanması işlevi. NOT: İndirgeme (demultiplexing) terimi, alıcı varlık tarafından gerçekleştirilen işleve referans göstermek için kullanılırken çoklama terimi gönderen varlık tarafından gerçekleştirilen işleve referans göstermek için daha sınırlı bir anlamda kullanılır.
+multiplexer: çoğullayıcı, Birkaç giriş sinyali alan ve bu sinyalleri her bir giriş sinyalinin yeniden elde edilebileceği bir tarzda tek bir çıkış sinyali içinde birleştiren cihaz.
+
+multiplexing: çoklama, Birkaç ayrı kaynaktan toplanan sinyalleri tek bir iletim kanalı üzerinden iletim için tek bir sinyal içine birleştiren işlem.
+
+multiplexing: çoğullama, (OSI'de) Belirli bir katman içinde, bu katmanın birden fazla bağlantısının bir alt katmanın bir (1) bağlantısı tarafından sağlanması işlevi. NOT: İndirgeme (demultiplexing) terimi, alıcı varlık tarafından gerçekleştirilen işleve referans göstermek için kullanılırken çoklama terimi gönderen varlık tarafından gerçekleştirilen işleve referans göstermek için daha sınırlı bir anlamda kullanılır.
 
 multiplicand: çarpılan, Bir çarpma işleminde, işlem gören terim olan sayı veya büyüklük.
 
@@ -4057,7 +4067,7 @@ passive wiretapping: hatta pasif girme, Veri elde etme ile sınırlı hatta girm
 
 password: parola, Doğrulama bilgisi olarak kullanılan karakter dizisi.
 
-patch: 1. yama, Bir amaç modül ya da yüklenmiş programda, kaynak programı birleştirmeden ya da derlemeden yapılan doğrudan değişiklik. 2. yamamak, (f.) Bir yama yapmak.
+patch: yama, Bir amaç modül ya da yüklenmiş programda, kaynak programı birleştirmeden ya da derlemeden yapılan doğrudan değişiklik.
 
 path: yol, Bir ağda iki düğümü, her dalı sadece bir defa kullanarak bağlayan güzergah. NOT 1: Bir yol sadece bir daldan ibaret olabilir. NOT 2: Herhangi iki düğüm arasında birden fazla dal olabilir. NOT 3: Şekil 18.2'ye bakınız.
 
@@ -4093,7 +4103,7 @@ personal name: kişisel ad, Diğer bir nitelik tarafından (örneğin bir kurulu
 
 phase coherent frequency shift keying: faz uyumlu frekans kaydırma anahtarlaması, Önceden belirlenen fazların bit hızlarının tam katları olduğu ve bu frekanslar arasındaki geçişlerin dalga düzeni taşıyıcısının sıfır noktası geçişlerinde yapıldığı anahtar değişim frekansı.
 
-phase encoding: 1. evre şifreleme, bkz. phase modulation recording 2. faz kodlama, (veri iletişiminde) Periyodik bir sinyal fazının sayısal veriyi kodlamak için kullanılmasındaki kodlama. ÖRNEK: Manchester kodlaması.
+phase encoding: Birinci evre şifreleme, bkz. phase modulation recording 2. faz kodlama, (veri iletişiminde) Periyodik bir sinyal fazının sayısal veriyi kodlamak için kullanılmasındaki kodlama. ÖRNEK: Manchester kodlaması.
 
 phase jitter: faz kıpırdaması, Önemli aralığın bir parçası olarak ifade edilen kıpırdama.
 
@@ -4220,7 +4230,9 @@ potential recipient: olası alıcı, Bir ileti veya sorgulamanın taşınabildi�
 
 potentiometersetmode: potansiyometre ayar modu, Problemin katsayılarının ayarlandığı esnada bir örneksel bilgisayarın ayar modu.
 
-preamble: 1. başlangıç sinyali, Diğer veri istasyonları ile zaman uyumunu gerçekleştirmek için bir çerçeveden önce gelen ve bir veri istasyonu tarafından gönderilen belirli bir bit örüntüsü. NOT 1: Bazı protokollerde, başlangıç sinyali çerçevenin parçasıdır. NOT 2: Şekil 9.5'e bakınız. 2. eş zamanlama ön eki, Zaman uyumunu sağlamak amacıyla, manyetik ortamdaki her öbeğin başlangıcına kaydedilen ikil dizisi.
+preamble: başlangıç sinyali, Diğer veri istasyonları ile zaman uyumunu gerçekleştirmek için bir çerçeveden önce gelen ve bir veri istasyonu tarafından gönderilen belirli bir bit örüntüsü. NOT 1: Bazı protokollerde, başlangıç sinyali çerçevenin parçasıdır. NOT 2: Şekil 9.5'e bakınız.
+
+preamble: eş zamanlama ön eki, Zaman uyumunu sağlamak amacıyla, manyetik ortamdaki her öbeğin başlangıcına kaydedilen ikil dizisi.
 
 preamble breakpoint: giriş kesme noktası, Bir program ya da alt programın bir giriş noktasına yerleştirilmiş kesme noktası.
 
@@ -4508,7 +4520,7 @@ random number sequence: rasgele sayı dizisi, Yalnızca kendisinden önce gelen 
 
 randomly connected network: rastgele bağlantılı ağ, Yapay sinirlerin rastgele bağlandığı sinir ağı.
 
-range: 1. erim, bkz. span. 2. aralık, (programlama dillerinde) Bir ölçüm türünün bitişik veri değerleri kümesi. 3. (f.) Bir büyüklük veya işlevin alabileceği değerleri belirlemek.
+range: aralık, (programlama dillerinde) Bir ölçüm türünün bitişik veri değerleri kümesi. 3. (f.) Bir büyüklük veya işlevin alabileceği değerleri belirlemek.
 
 range specification: aralık belirleme, Bir karakter dizisinin başlangıcının ve sonunun seçimi. NOT: Aralık; kelime, satır, paragraf, cümle ya da sayfa gibi birimlere dayalı olarak seçilebilir.
 
@@ -4584,7 +4596,7 @@ receipt notification: alım uyarısı, Kişiler arası iletinin göndericisine k
 
 receiving service user: alıcı hizmet kullanıcısı, Özel bir bağlantısız-mod iletimi esnasında ya da bağlantının veri aktarım evresi esnasında bir veri alım düğümü gibi davranan hizmet kullanıcısı.
 
-recipient: 1. alıcı, Bir iletinin gönderildiği kullanıcı. NOT: Alma işlemi amaçlanmışancakhenüz gerçekleşmemiş ise, bu terim "amaçlanan alıcı" olarak kullanılmalıdır. 2. alıcı, Bir ileti alabilen veya kendisine bir iletinin adreslendiği kullanıcı veya dağıtım listesi.
+recipient: alıcı, 1. Bir iletinin gönderildiği kullanıcı. NOT: Alma işlemi amaçlanmışancakhenüz gerçekleşmemiş ise, bu terim "amaçlanan alıcı" olarak kullanılmalıdır. 2. Bir ileti alabilen veya kendisine bir iletinin adreslendiği kullanıcı veya dağıtım listesi.
 
 recognition time: tanıma süresi, Sayısal giriş sinyalinin değerinin değişmesi ile bu sinyalin sayısal giriş cihazı tarafından tanınması arasında geçen süre.
 
@@ -4598,7 +4610,13 @@ record length: kayıt uzunluğu, Bir kayıttaki bayt’ların sayısı veya uygu
 
 record type: kayıt türü, 1. Parçaları alan türleri veya başka kayıt türleri olan bileşik tür. ÖRNEK: Bir personel kaydı bu kaydın içinde alt kayıtlar ve alanlar olarak düzenlenmiş olan personel verilerinden oluşabilir. NOT 1: Bir kayıt türü bir değerler ve işlemler kümesini tanımlar. Böyle bir kayıt türünün örneği, kendileri kayıt olan değerleri kapsayabilir. NOT 2: Şekil 15.1'e bakınız. 2. kayıt türü, Bileşenleri alan türleri veya diğer kayıt türleri olan bileşik tür.
 
-recover: 1. kurtarmak, (f.) Bir sistem, dosya, veritabanı ya da diğer bir kaynağın tümü ya da bir bölümünün veya gerekli işlevlerin gerçeleştirilebilmesi için bir programın yürütülmesinin önceki ya da yeni durumunu oluşturmak. 2. geri kazanım, Veri iletiminde, veri iletimi esnasında ortaya çıkan hatalı şartların veya uyuşmazlıkların çözümü için bir işlem. 3. kurtarma, (Bilgisayar programlamada) Kurtarma süreci ya da sonucu. 4. düzeltme, (Veri) Dosyaların yedeğinin alınması ve kopyalama sonrasında bir veri tabanının eski haline getirilmesi.
+recover:  kurtarmak, (f.) Bir sistem, dosya, veritabanı ya da diğer bir kaynağın tümü ya da bir bölümünün veya gerekli işlevlerin gerçeleştirilebilmesi için bir programın yürütülmesinin önceki ya da yeni durumunu oluşturmak. 
+
+recover: geri kazanım, Veri iletiminde, veri iletimi esnasında ortaya çıkan hatalı şartların veya uyuşmazlıkların çözümü için bir işlem. 
+
+recover: kurtarma, (Bilgisayar programlamada) Kurtarma süreci ya da sonucu. 
+
+recover: düzeltme, (Veri) Dosyaların yedeğinin alınması ve kopyalama sonrasında bir veri tabanının eski haline getirilmesi.
 
 recovery function: yeniden elde etme işlevi, Bir işlevsel birimin bir arızadan sonra normal işlemlerini yeniden başlatması yeteneği.
 
@@ -4764,7 +4782,9 @@ response time: yanıt süresi, tepkime süresi, Bir bilgisayar programında bir 
 
 response time window: tepki süresi penceresi, Bir andaç – veri yolu ağında, bir veri istasyonunun bir ortam erişim denetim çerçevesini iletmesi ve bir tepki için beklemesi kadar süreye eşit denetimli zaman aralığı.
 
-restart: 1. yeniden başlatmak, (f.) Bir denetleme noktasında kaydedilen veriyi kullanarak bir programın yürütülmesini devam ettirmek. 2. yeniden başlatma, (Veri tabanlarında) Bir hata düzeltme işleminden sonra veri tabanı yönetim sisteminin başlatılması.
+restart: yeniden başlatmak, (f.) Bir denetleme noktasında kaydedilen veriyi kullanarak bir programın yürütülmesini devam ettirmek. 
+
+restart: yeniden başlatma, (Veri tabanlarında) Bir hata düzeltme işleminden sonra veri tabanı yönetim sisteminin başlatılması.
 
 restart point: yeniden başlatma noktası, Bir programdaki, bir kesme noktası ya da denetleme noktasında kesildikten sonra yürütmenin devam ettiği nokta.
 
@@ -4814,7 +4834,9 @@ robot: robot, Otomatik denetim altında manipulasyon ya da hareket eylemlerini g
 
 robot system: robot sistemi, Robot donanımı ve yazılımını da içeren, kollardan, güç kaynağından, denetim sistemlerinden, son etkileyicilerden, robotun etkileşimde olduğu her malzeme ve robotu işletmek ve gözlemlemek için kullanılan tüm haberleşme ara yüzlerinden meydana gelen üretim hücresi.
 
-robotics: 1. robotbilim tekniği, Robotları tasarımlama, yapma ve kullanmayı içine alan teknikler. 2. robotik, Robotların tasarımı, erçekleştirilmesive kullanılmasıyla ilgilenen mühendislik dalı.
+robotics: robotbilim tekniği, Robotları tasarımlama, yapma ve kullanmayı içine alan teknikler.
+
+robotics: robotik, Robotların tasarımı, erçekleştirilmesive kullanılmasıyla ilgilenen mühendislik dalı.
 
 roll in: ana belleğe taşımak, (f.) Önceden yardımcı belleğe taşınmış veri kümelerini ana belleğe yeniden aktarmak.
 
@@ -4840,8 +4862,7 @@ round down: aşağıya yuvarlatmak, (f.) Eldeki sayı kısmına hiç ayarlama ya
 
 round down function: aşağı yuvarlama işlevi, Bir hesaplamanın sonucundaki en az anlamlı basamağın ilerisindeki bütün basamakların atılmasını sağlayan işlev.
 
-round off: şartlı yuvarlatma, (f) Yalnız çıkarılan sayının en soldaki rakamı basamağın yarısından büyük veya eşitse, elde bulunan sayının en sağındakine 1 ekleyerek ve gerekli taşımalar yapılarak kısmi ayarlama ile yuvarlatma. II -Şartlı Yuvarlatma kalan sayının en sağındaki rakama 1 ekleyerek ve gerekli taşımaları yaparak kısmi ayarlama ile yuvarlatma aşağıdaki koşullardan biri sağlanırsa yapılabilir. - Atılan sayının en soldaki rakamı basamağın yarısından büyük olduğunda;
--Atılan sayının en soldaki rakamı basamağın yarısına eşit ve izleyen bir ya da daha fazla sayı sıfırdan büyük olduğunda, -Atılan sayının en soldaki rakamı basamağın yarısına eşit, izleyen bütün rakamlar sıfıra eşit, ve kalan en sağdaki rakam tek olduğunda. ÖRNEK: 12.6375 ve 15.0625 üç ondalık basamağa yuvarlatıldığında 12, 38 ve 15.062 olurlar. NOT: Bu tanımda tek yerine çift kullanılabilir.
+round off: şartlı yuvarlatma, (f) Yalnız çıkarılan sayının en soldaki rakamı basamağın yarısından büyük veya eşitse, elde bulunan sayının en sağındakine 1 ekleyerek ve gerekli taşımalar yapılarak kısmi ayarlama ile yuvarlatma. II -Şartlı Yuvarlatma kalan sayının en sağındaki rakama 1 ekleyerek ve gerekli taşımaları yaparak kısmi ayarlama ile yuvarlatma aşağıdaki koşullardan biri sağlanırsa yapılabilir. - Atılan sayının en soldaki rakamı basamağın yarısından büyük olduğunda; -Atılan sayının en soldaki rakamı basamağın yarısına eşit ve izleyen bir ya da daha fazla sayı sıfırdan büyük olduğunda, -Atılan sayının en soldaki rakamı basamağın yarısına eşit, izleyen bütün rakamlar sıfıra eşit, ve kalan en sağdaki rakam tek olduğunda. ÖRNEK: 12.6375 ve 15.0625 üç ondalık basamağa yuvarlatıldığında 12, 38 ve 15.062 olurlar. NOT: Bu tanımda tek yerine çift kullanılabilir.
 
 round up: yukarıya yuvarlatma, (f) Yalnız bir veya daha fazla sıfır olmayan sayı çıkarılırsa, en soldaki sayıya l eklenerek kalan sayı kısmını ayarlama ve gerekli taşımaları yürütme. ÖRNEK: 12, 374 ve 15, 625 sayıları iki ondalık basamağa yuvarlatıldığında 12, 4 ve 15, 7 olur. NOT: Bir sayı üste yuvarlatıldığında gerçek değeri büyür.
 
@@ -4939,11 +4960,11 @@ search: arama, Bir öğe ya da öğeler kümesi içerisinde, verilen bir özelli
 
 search: arama, (Metin işlemede) Kullanıcının; özel karakter dizileri, gömülü komutlar ya da metin içinde özel nitelikli karakterler gibi öğelerin konumlarını bulmasına olanak sağlayan işlev ya da mod.
 
-search and replace: arama ve değiştirme,  Kullanıcının, özel karakter dizileri, gömülü komutlar ya da metin içinde özel nitelikli karakterler gibi öğelerin konumlarını bulmasına ve bunların tamamının ya da bir kısmının
+search and replace: arama ve değiştirme,  Kullanıcının, özel karakter dizileri, gömülü komutlar ya da metin içinde özel nitelikli karakterler gibi öğelerin konumlarını bulmasına ve bunların tamamının ya da bir kısmının verilen bir metin ile yer değiştirmesine olanak sağlayan işlev ya da mod. NOT: Bu işlev ya da mod tüm metin boyunca ya da metnin bir parçası üzerinde gerçekleştirilir.
 
-verilen bir metin ile yer değiştirmesine olanak sağlayan işlev ya da mod. NOT: Bu işlev ya da mod tüm metin boyunca ya da metnin bir parçası üzerinde gerçekleştirilir.
+search cycle: arama çevrimi, Bir arama işleminde, herbir veri öğesi için yinelenen işlemler dizisi. 
 
-search cycle: 1. arama çevrimi, Bir arama işleminde, herbir veri öğesi için yinelenen işlemler dizisi. 2. arama anahtarı, Veri erişimi için kullanılan anahtar.
+search cycle: arama anahtarı, Veri erişimi için kullanılan anahtar.
 
 search space: arama uzayı, Problemçözmede, aşlangıç durumlarından amaç durumlarına götüren olası adımlar kümesi.
 
@@ -6139,7 +6160,9 @@ world koordinate: dünya koordinatı, Özellikle girdi ve çıktı ile ilgili gr
 
 worm: solucan, Kendi başına hareket edebilen ve veri işlem sistemi veya bilgisayar ağları üzerinden yayılabilen program. NOT: Solucanlar genellikle yardımcı bellek boşlukları ve işlem zamanı gibi mevcut kaynakları kullanmak üzere tasarımlanmıştır.
 
-wraparound: 1. sarım, (Bilgisayar grafiğinde) Görüntü uzayının karşı ucunda ve aksi halde görüntü uzayı dışında kalacak bir görüntü parçasının gösterimi. 2. sonraki satıra geçme, (Metin işlemede) Bir satırın son konumundan sonra girilmiş olan metnin otomatik olarak bir sonraki satırın başına yerleştirilmesine olanak sağlayan işlev.
+wraparound: sarım, (Bilgisayar grafiğinde) Görüntü uzayının karşı ucunda ve aksi halde görüntü uzayı dışında kalacak bir görüntü parçasının gösterimi. 
+
+wraparopund: sonraki satıra geçme, (Metin işlemede) Bir satırın son konumundan sonra girilmiş olan metnin otomatik olarak bir sonraki satırın başına yerleştirilmesine olanak sağlayan işlev.
 
 write: yazmak, (f.) Bir veri ortamına ya da bir bellek aygıtına verileri, sürekli ya da geçici bir biçimde kaydetmek. NOT: “Bir yere okumak” ya da bir yerden okumak” deyimleri “bir yere yazmak” ya da “bir yerden yazmak” deyimlerinden yalnızca tanımdaki bakış açısı ile ayrılır. ÖRNEK: bir veri öbeğinin iç bellekten dış belleğe aktarılması, “dış belleğe yazmak” ya da “iç bellekten okumak” ya da her ikisi olarak adlandırılabilir.
 
