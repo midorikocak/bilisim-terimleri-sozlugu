@@ -2136,8 +2136,6 @@ extra track: ek iz, Kopya koruma metodunun bir parçası olarak standard iz say�
 
 extract: ayrıştırmak, (f.) Bir öğeler kümesinden, belirli koşullara uyan öğeleri seçmek.
 
-facsimile: faks (1), bkz. fax
-
 fact: olgu, (Yapay zekada) Doğruluğu genel olarak kabul edilen gerçek veya kavramsal dünyanın varlığı hakkında bir deyim. NOT: Bir olgu oldukça yüksek bir kesinlik faktörüne sahip olan bir inanış olarak görülebilir.
 
 factor: katsayı, Bir çarpma işleminde çarpanlardan biri.
