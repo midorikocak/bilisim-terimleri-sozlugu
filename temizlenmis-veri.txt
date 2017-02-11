@@ -3745,8 +3745,7 @@ normal mode voltage: normal mod gerilimi, Bir yükseltecin iki giriş bağlantı
 
 normalization:normalizasyon, (Veri tabanlarında) Bir ilişkiyi, referansgösterilenbütünlüğü desteklemek için tutarsız ve mükerrer nitelik bulundurmayan daha basit bir veya daha fazla ilişkilere dönüştüren işlem.
 
-normalize: normalize etmek, 1. (f.) (Kayan nokta gösterim sisteminde) Temsil edilen gerçek sayı değişmeksizin, önceden tanımlanmış bir değer kümesini sağlamak amacıyla bir kayan noktalı göstermede sabit nokta kısmındaki ayarlama ve buna karşılık gelen kayan noktalı göstermede üssü ayarlama. ÖRNEK: Sabit nokta kısmını 1-9.99......... aralığına yerleştirmek için kayan noktalı gösterme 123:45 X 102
-1.2345 x 104 ile normalize edilebilir. 2. Temsil edilen gerçel sayı değişmeden kalmak üzere, mantisi tavsiye edilen belirli bir sınır içine getirmek için bir kayan nokta gösteriminde mantis ve üs için ilgili ayarlamaları yapmak. NOT: Sıfır sayısı normalize edilemez.
+normalize: normalize etmek, 1. (f.) (Kayan nokta gösterim sisteminde) Temsil edilen gerçek sayı değişmeksizin, önceden tanımlanmış bir değer kümesini sağlamak amacıyla bir kayan noktalı göstermede sabit nokta kısmındaki ayarlama ve buna karşılık gelen kayan noktalı göstermede üssü ayarlama. ÖRNEK: Sabit nokta kısmını 1-9.99......... aralığına yerleştirmek için kayan noktalı gösterme 123:45 X 102 1.2345 x 104 ile normalize edilebilir. 2. Temsil edilen gerçel sayı değişmeden kalmak üzere, mantisi tavsiye edilen belirli bir sınır içine getirmek için bir kayan nokta gösteriminde mantis ve üs için ilgili ayarlamaları yapmak. NOT: Sıfır sayısı normalize edilemez.
 
 normalized device coordinate: normalize edilmiş cihaz koordinatı, Ara koordinat sistemi içinde tanımlanan ve bazı sınırlar ile, özellikle 0 ile 1 arasında normalleştirilen cihaz koordinatı. NOT 1: Normalleştirilmiş cihaz koordinatları içinde gösterilen ekran gösterimi herhangi bir cihaz uzayı üzerindeki aynı göreceli konuma yerleşir. NOT 2: Şekil 1'e bakınız.
 
@@ -5878,8 +5877,7 @@ unconditional statement: şartsız deyim, Herhangi bir koşul olmaksızın işle
 
 undelete: silme işleminin tersini yapmak, (f.) Önceden silinmiş olan fakat değişikliklerin sakla komutu kullanılarak kalıcı hale getirilmediği durumda metin ve grafikleri yeniden yüklemek.
 
-underflow: eksik gelme, 1. Bir aritmetik işlemde kullanılan sayı gösterim sisteminin değer kümesinde temsil edilemeyecek kadar küçük bir mutlak değeri olan sonuç. ÖRNEKLER:
-1. Özelikle kayan noktalı gösterme sistemi kullanıldığında, gösterilebilen sonuç en küçük sıfır olmayan nicelikten daha küçükse bu şart sağlanmıştır. 2. Kabul edilebilir değer kümesinin dışında negatif üssün üremesinden dolayı yetersizlik olabilir. 2. (Hesap makinelerinde) Bir hesap makinesinin, bir sayının en az önemli kısmı iptal edilirken, en önemli kısmı için sıfır sonuç göstermesi durumu. ÖRNEK: Hesap makinesinin çıkış gösterme kapasitesi 4 basamak ise, .0000432 rakamı .0000 olarak gösterilecektir.
+underflow: eksik gelme, 1. Bir aritmetik işlemde kullanılan sayı gösterim sisteminin değer kümesinde temsil edilemeyecek kadar küçük bir mutlak değeri olan sonuç. ÖRNEKLER: 1. Özelikle kayan noktalı gösterme sistemi kullanıldığında, gösterilebilen sonuç en küçük sıfır olmayan nicelikten daha küçükse bu şart sağlanmıştır. 2. Kabul edilebilir değer kümesinin dışında negatif üssün üremesinden dolayı yetersizlik olabilir. 2. (Hesap makinelerinde) Bir hesap makinesinin, bir sayının en az önemli kısmı iptal edilirken, en önemli kısmı için sıfır sonuç göstermesi durumu. ÖRNEK: Hesap makinesinin çıkış gösterme kapasitesi 4 basamak ise, .0000432 rakamı .0000 olarak gösterilecektir.
 
 underflow exception: eksik gelme özel durumu, Bir işlemin sonucu bir aritmetik eksik gelmeye neden olduğunda ortaya çıkan özel durum.
 
