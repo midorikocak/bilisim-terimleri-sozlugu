@@ -484,7 +484,7 @@ bias error: sapma hatası, Sapmadan kaynaklanan hata. ÖRNEK 1: Küçültülmü�
 
 bidirectional search: iki yönlü arama, Eşzamanlı olarak ileri ve geri yönde zincirleme ile başlayan ve arama yolları çözüm uzayında buluştuğunda ya da tüm olasılıklar bittiğinde duran arama.
 
-binary      : İkili    , 1. İkili .......... iki    ’in mümkün olan farklı değer ve durumlar olduğu, ayrılma, seçim veya koşulla tanımlanır. 2. İki,  ......... 'li, tabanı (kökü) iki       olan sabit tabanlı (köklü) sayı sistemi.
+binary: ikili, Tabanı (kökü) iki olan sabit tabanlı (köklü) sayı sistemi.
 
 binary arithmetic operation: ikili aritmetik işlem, İşlenenler ve sonuçların ikili sayı sisteminde gösterildiği aritmetik işlem.
 
@@ -756,8 +756,7 @@ case-based learning: örnek tabanlı öğrenme, Eldeki problemi önceden çözü
 
 cassette: kaset, Üzerine veri kaydedilebilen mıknatıslanabilir bir yüzeyi olan şerit.
 
-catalog: katalog, kataloglamak,  1. (i.) Kitaplık ve
-dosyaların yer referansları ile birlikte içeren rehber. NOT: Bir katalog, dosyaların saklandığı aygıtların türleri, parolalar, öbekleme katsayıları vb. diğer bilgileri kapsayabilir. 2. (f). Bir kataloğa kitaplık veya dosya ile ilgili bilgi girmek
+catalog: katalog, kataloglamak,  1. (i.) Kitaplık ve dosyaların yer referansları ile birlikte içeren rehber. NOT: Bir katalog, dosyaların saklandığı aygıtların türleri, parolalar, öbekleme katsayıları vb. diğer bilgileri kapsayabilir. 2. (f). Bir kataloğa kitaplık veya dosya ile ilgili bilgi girmek
 
 causal analysis: nedensel çözümleme, Bir öğrenme stratejisinde, bir amaca ulaşma başarısızlığı gibi gözlenen bir olayın olası nedenlerinin izlenmesi ile yapılan çözümleme.
 
@@ -1885,9 +1884,7 @@ echo: yansıtma, (bilgisayar grafiklerinde) Görüntü konsolundaki kullanıcıy
 
 edit: düzenlemek, (f.) Veriyi, daha sonraki bir işlem için hazırlamak. NOT: Düzenlemek, verinin yeniden düzenlenmesi veya toplanması, istenmeyen verinin silinmesi, biçim kontrolü, kod çevrilmesi ve sıfır kaldırma gibi standard işlemlerin uygulamalarını içerebilir.
 
-effective address: etkili adres, Belirli bir adreste gerekli herhangi bir dizinleme, dolaylı adresleme
-
-ya da diğer adres değişikliğini gerçekleştirmenin sonucu olan adres. NOT: Belirlenen adres herhangi bir adres değişikliği gerektirmezse, bu da etkili adrestir.
+effective address: etkili adres, Belirli bir adreste gerekli herhangi bir dizinleme, dolaylı adresleme ya da diğer adres değişikliğini gerçekleştirmenin sonucu olan adres. NOT: Belirlenen adres herhangi bir adres değişikliği gerektirmezse, bu da etkili adrestir.
 
 effective transfer rate: etkin aktarma hızı, 1. İki nokta arasındaki zaman birimi başına aktarılan ve alınan yerde geçerli olarak kabul edilen bit, karakter veya blokların ortalama sayısı. 2. Her bir zaman biriminde gerçekten aktarılan kullanıcı verisinin karakter sayısı.
 
@@ -2392,9 +2389,7 @@ generic package: genel paket, İlgili algoritmalar ve işlemler için şablonlar
 
 generic unit: genel birim, Uygun bir dil yapısının çeviri zamanında türetildiği, dil yapısının olasılıkla parametrelendirilmiş modeli.
 
-genetic learning: kalıtsal öğrenme, Dayanıklılığına bağlı olarak sınıflandırma çiftlerini seçen, yeni ürünler yaratmak için kalıtsal işlemeleri çiftlere uygulayan, var olan kurallar yetersiz olduğu zaman yeni ve makul kurallar üretmek için en güçlü sınıflandırıcıların en zayıfların yerine geçtiği yinelemeli
-
-sınıflandırma algoritmasını temel alan makine öğrenmesi. NOT: "Kalıtsal" terimi, doğal genetik alanından gelmektedir. Genetik; kalıtıma, türlerin değişimine ve uygun olanın hayatta kalmasına dayanan bir alandır.
+genetic learning: kalıtsal öğrenme, Dayanıklılığına bağlı olarak sınıflandırma çiftlerini seçen, yeni ürünler yaratmak için kalıtsal işlemeleri çiftlere uygulayan, var olan kurallar yetersiz olduğu zaman yeni ve makul kurallar üretmek için en güçlü sınıflandırıcıların en zayıfların yerine geçtiği yinelemeli sınıflandırma algoritmasını temel alan makine öğrenmesi. NOT: "Kalıtsal" terimi, doğal genetik alanından gelmektedir. Genetik; kalıtıma, türlerin değişimine ve uygun olanın hayatta kalmasına dayanan bir alandır.
 
 geometric modeling: geometrik modelleme,  Bir bilgi işlem sistemi üzerinde, üç boyutlu şekillerle değiştirilebilecek bir düzen içinde gösteren bir modelin oluşturulması.
 
@@ -4127,9 +4122,7 @@ pixel value: piksel değeri, Bir pikselin renk, aydınlanma şiddeti veya diğer
 
 plaintext: düz metin, Şifrelemeyleilgiliteknikler kullanılmaksızın anlam taşıyan veri.
 
-planning: planlama, (Yapay zekada) Arzu edilen bir amaca ulaşmak
-
-için eylemlerin uygulama düzeni ve tarzına önceden karar verme süreci. NOT: Planlama, arama etkinliğini artırma ve amaç uyuşmazlıklarını çözmeyle ilgili bir bakış açısıyla gerçekleştirilir.
+planning: planlama, (Yapay zekada) Arzu edilen bir amaca ulaşmak için eylemlerin uygulama düzeni ve tarzına önceden karar verme süreci. NOT: Planlama, arama etkinliğini artırma ve amaç uyuşmazlıklarını çözmeyle ilgili bir bakış açısıyla gerçekleştirilir.
 
 playback: geri oynatma, Bir programın tümü ya da bir bölümünün yürütülme geçmişinin girdi ve çıktının kullanıcının denetiminde ileri ya da geri yönde yeniden üretilebilecek şekilde kaydedildiği teknik. NOT: Geri oynatma hata ayıklamada kullanılır.
 
@@ -4187,9 +4180,7 @@ postcondition: çıkış koşulu, Yürütme dizisinde, programın belirli bir b�
 
 post-development review: geliştirme sonrası gözden geçirme, Uygulamaya konan bir sistemin kullanıma hazır hale geldikten sonraki etkilerinin izlenmesi.
 
-postfix notation: son operatör notasyonu, İçindeki her operatörün işlem gören terimlerinden önce geldiği ve bu terimler üzerinde kullanılan işlemi veya ondan önce gelen ara sonuçları kullanan bir matematiksel ifade oluşturma yöntemi. ÖRNEKLER: 1. A ile B'nin toplanıp sonucun C ile çarpılması AB + Cx şeklindedir. 2. P ve Q VE R'nin sonucu PQR VE VE
-
-şeklindedir. NOT: Son operatör ifadesi, alt karakter ifadesi olarak da adlandırılır.
+postfix notation: son operatör notasyonu, İçindeki her operatörün işlem gören terimlerinden önce geldiği ve bu terimler üzerinde kullanılan işlemi veya ondan önce gelen ara sonuçları kullanan bir matematiksel ifade oluşturma yöntemi. ÖRNEKLER: 1. A ile B'nin toplanıp sonucun C ile çarpılması AB + Cx şeklindedir. 2. P ve Q VE R'nin sonucu PQR VE VE şeklindedir. NOT: Son operatör ifadesi, alt karakter ifadesi olarak da adlandırılır.
 
 postmortem dump: otopsi dökümü, Bir programın yürütülmesi normal olmayan bir şekilde sonlandığında üretilen döküm.
 
@@ -4632,8 +4623,7 @@ relation class: ilişki sınıfı, Aynı nitelik kümelerine sahip olan tüm ili
 
 relation: ilişki, Aynı niteliklere sahip olan varlık olaylarının bu niteliklerle birlikteki grubu. NOT: Bir ilişkisel veri tabanındaki ilişki varlık örneklerine karşılık gelen satırlar ve niteliklere karşılık gelen kolonlardan oluşan bir tablo tarafından gösterilebilir.
 
-relational algebra: ilişkisel cebir, İlişkilerin işlenmesi ve ifade
-edilmesi için bir cebir işlem. NOT: BirO ilişkisel cebirdeki ortak işlemler projeksiyon, seçme, birleştirme, kartezyen sonuç, ayrıştırma, birleştirme ve farklılık işlemleridir.
+relational algebra: ilişkisel cebir, İlişkilerin işlenmesi ve ifade edilmesi için bir cebir işlem. NOT: BirO ilişkisel cebirdeki ortak işlemler projeksiyon, seçme, birleştirme, kartezyen sonuç, ayrıştırma, birleştirme ve farklılık işlemleridir.
 
 relational database management system: ilişkisel veri tabanı yönetim sistemi, İlişkisel veri tabanı için tasarlanmış veri tabanı yönetim sistemi.
 
