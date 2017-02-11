@@ -130,7 +130,7 @@ address space: adres alanı, Belirli bir program ya da işlevsel birim tarafınd
 
 address translator: adres çevirici, Sanal adresleri gerçek adreslere dönüştüren işlevsel birim.
 
-addressability:adreslenebilirlik, (Bilgisayar grafiklerinde) Bir aygıt uzayındaki adreslenebilir nokta sayısı.
+addressability: adreslenebilirlik, (Bilgisayar grafiklerinde) Bir aygıt uzayındaki adreslenebilir nokta sayısı.
 
 addressable point: adreslenebilir nokta, Önceden tanımlanmış bir koordinat sisteminde bulunabilen herhangi bir nokta.
 
@@ -278,9 +278,7 @@ argument: argüman, 1.Bağımsız bir değişken. 2. Bağımsız bir değişkeni
 
 arithmetic operation: aritmetik işlem, Aritmetik kurallarını izleyen işlem.
 
-arithmetic shift: aritmetik kaydırma, Aritmetik kaydırma, içinde yalnızca sabit nokta kısmının hareket ettiği, bir köklü sayı sisteminde ve bir sabit noktalı gösterme sisteminde, bir sayının gösterilişine uygulanan kayma. NOT 1: Bir aritmetik kaydırma, genellikle sayının herhangi bir yuvarlama etkisi olmaksızın, kökün artı veya eksi integral
-
-üssü ile çarpılmasına eşdeğerdir. NOT 2: Mantıksal kaydırma ve aritmetik kaydırma özellikle kayan nokta gösterimi için kıyaslanmalıdır.
+arithmetic shift: aritmetik kaydırma, Aritmetik kaydırma, içinde yalnızca sabit nokta kısmının hareket ettiği, bir köklü sayı sisteminde ve bir sabit noktalı gösterme sisteminde, bir sayının gösterilişine uygulanan kayma. NOT 1: Bir aritmetik kaydırma, genellikle sayının herhangi bir yuvarlama etkisi olmaksızın, kökün artı veya eksi integral üssü ile çarpılmasına eşdeğerdir. NOT 2: Mantıksal kaydırma ve aritmetik kaydırma özellikle kayan nokta gösterimi için kıyaslanmalıdır.
 
 array: dizi, Bir dizi türünün örneği olan ve her elemanının veya uygun elemanlar grubunun diğerlerine bağımsız ve rastlantısal olarak referans gösterilebildiği bir kümelenme.
 
@@ -290,7 +288,7 @@ array type: dizi türü, Parçaları aynı veri türünde olan bileşik tür. NO
 
 artificial intelligence: yapay zeka, Muhakeme etme, öğrenme ve kendi kendini geliştirme gibi normal olarak insan zekâsı ile ilgili işlemleri yerine getiren veri işleme sistemini geliştirmeye yönelik bilgisayar bilim dalı.
 
-artificial intelligence: yapay zeka 1. Öğrenme ve akıl yürütme gibi genel olarak insan zekası ile ilgili işlevlerin başarımına ilişkin modeller ve sistemlerle ilgilenen ve bilgisayar biliminin bir dalı olarak ele alınan disiplinler arası bir alan. 2. Öğrenme ve akıl yürütme gibi genellikle insan zekası ile ilgili olan işlevleri yapmak için işlevsel bir birimin yeteneği.
+artificial intelligence: yapay zeka, 1. Öğrenme ve akıl yürütme gibi genel olarak insan zekası ile ilgili işlevlerin başarımına ilişkin modeller ve sistemlerle ilgilenen ve bilgisayar biliminin bir dalı olarak ele alınan disiplinler arası bir alan. 2. Öğrenme ve akıl yürütme gibi genellikle insan zekası ile ilgili olan işlevleri yapmak için işlevsel bir birimin yeteneği.
 
 artificial language: yapay dil, Kullanımından önce kuralları kesin olarak belirtilen dil.
 
@@ -314,7 +312,7 @@ assembly duration: birleştirme süresi, Bir programı birleştirmek için gerek
 
 assembly language: birleştirme dili, İşlemler ve konumların sembolik adlandırması ve makro komutlar gibi diğer özellikler sağlayan makine yönelimli dil.
 
-assembly time: birleştirme zamanı 1.Birleştirmenin gerçekleştiği herhangi bir an.
+assembly time: birleştirme zamanı, 1.Birleştirmenin gerçekleştiği herhangi bir an.
 
 assertion: bildirim, Var olması gereken belirli bir durum ya da yürütüldüğünde programın belirli bir noktasında karşılanması gereken belirli bir koşulu açıklayan bir dil yapısı.
 
@@ -322,7 +320,7 @@ assignment: atama, Bir değişkenin mevcut veri değerini bir matematiksel ya da
 
 association control service element: işbirliği denetim hizmet öğesi, Tüm uygulama işbirliklerini tesis etmek ve bitirmek için özel ve tutarlı bir araç sağlayan uygulama hizmet elemanı.
 
-associative storage:içerik adreslenebilir bellek, 1. Adresleri ya da yerleri ada ya da konuma göre değil, içeriği ya da içeriğinin bir kısmı ile tanımlanan bellek aygıtı. 2. çağrışımsal depolama, Bir yaklaşık veya kısmi giriş örüntüsü ile eşleşen depolanmış, örüntüyü yeniden çağırabilen bir depolama aygıtı. NOT 1: Giriş örüntüsü, bir adres veya örüntünün tamamı veya bir parçası olabilir. NOT 2: Yeniden çağrılan model arzu edilen verinin kendisi olabilir veya veriye adresi gibi bir başvuru oluşturabilir.
+associative storage: içerik adreslenebilir bellek, 1. Adresleri ya da yerleri ada ya da konuma göre değil, içeriği ya da içeriğinin bir kısmı ile tanımlanan bellek aygıtı. 2. çağrışımsal depolama, Bir yaklaşık veya kısmi giriş örüntüsü ile eşleşen depolanmış, örüntüyü yeniden çağırabilen bir depolama aygıtı. NOT 1: Giriş örüntüsü, bir adres veya örüntünün tamamı veya bir parçası olabilir. NOT 2: Yeniden çağrılan model arzu edilen verinin kendisi olabilir veya veriye adresi gibi bir başvuru oluşturabilir.
 
 asynchronous: zaman uyumsuz, Ortak zamanlama sinyalleri gibi belirli olayların ortaya çıkmasına bağlı olmayan bir veya daha fazla işleme ait olan.
 
@@ -364,9 +362,7 @@ auto-forward: otomatik iletme, Alınan iletileri önceden belirlenmiş yeni bir 
 
 automate: otomatikleştirmek, (f.) Bir işlem veya teçhizatı otomatik hale getirmek.
 
-automated attendant: otomatik görevli, Çağrıları ve/veya mesajları tuşlarla ya da konuşma istekleri ile
-
-yönlendirmeye yardımcı olan bir sesli yanıt sistemi. NOT: Otomatik görevli, bir sesli mesaj sunucusu örneğidir.
+automated attendant: otomatik görevli, Çağrıları ve/veya mesajları tuşlarla ya da konuşma istekleri ile yönlendirmeye yardımcı olan bir sesli yanıt sistemi. NOT: Otomatik görevli, bir sesli mesaj sunucusu örneğidir.
 
 automatic: otomatik, Belirli koşullar altında, insan müdahalesi olmaksızın bir işlem veya teçhizatın kendiliğinden çalışması durumuna ait olma.
 
@@ -767,9 +763,7 @@ causal analysis: nedensel çözümleme, Bir öğrenme stratejisinde, bir amaca u
 
 center: ortalamak, (f.) Yatay bir çizgi, dikey bir çizgi ya da her ikisi üzerindeki bir referans noktasına göre dengeli bir şekilde konumlandırılma yoluyla metni düzenlemek.
 
-certainty factor: kesinlik faktörü, Bir hipotez, sonuç çıkarma
-
-kuralı veya sonuç çıkarmanın neticesi gibi bir deyimin geçerliliğine atfedilen değer. NOT: Kesinlik faktörü tamamen yanlıştan tamamen doğruya kadar bir aralığa yayılabilir.
+certainty factor: kesinlik faktörü, Bir hipotez, sonuç çıkarma kuralı veya sonuç çıkarmanın neticesi gibi bir deyimin geçerliliğine atfedilen değer. NOT: Kesinlik faktörü tamamen yanlıştan tamamen doğruya kadar bir aralığa yayılabilir.
 
 certification: belgelendirme, (Bilgisayar güvenliğinde) Üçüncü şahısların veri işleme sisteminin bir bölümü veya tamamının güvenlik kurallarına uyduğuna dair garanti vermek için uyguladıkları işlemler.
 
@@ -913,11 +907,11 @@ coding: kodlama, (Bilgisayar programlamada) Bir programı bir programlama dilind
 
 coefficient unit: katsayı birimi, Örneksel çıkış değişkeni, örneksel giriş değişkeninin bir sabitle çarpımına eşit olan işlevsel birim.
 
-cognitivemodeling:kavram modelleme, Bilgi işleme bakımından insanın algılama, eylem, bellek ve akıl yürütmesinin modellenmesi.
+cognitivemodeling: kavram modelleme, Bilgi işleme bakımından insanın algılama, eylem, bellek ve akıl yürütmesinin modellenmesi.
 
 cognitive science: bilişsel bilim, Belirtilen amacı, zihnin canlandırma ve hesaplama kapasitelerini ve bunların beyindeki yapısal ve işlevsel olarak gösterimini keşfetmek olan disiplinler arası bilgi alanı. NOT: Bilişsel bilim, kavramanın sembol işleme özelliği ile ilgilidir ve psikoloji, bilgisayar, fen bilimleri, dil, antropoloji, felsefe, eğitim, matematik, mühendislik ve sinir bilimleri gibi değişik disiplinleri kapsar.
 
-cohesion: bağlılık, Tek bir modülün etkinliklerinin bir diğeri ile ilişkisinin biçim ve derecesi. NOT 1: Güçlü bağlılık modülün etkinlikleri arasındaki kapsamlı ilişkiler anlamına gelir. NOT 2: Bağlılık çeşitleri güçlüden zayıfa aşağıdaki gibi sıralanabilir:, işlevsel bağlılık, bilgisel bağlılık, iletişimsel bağlılık, geçici bağlılık, mantıksal bağlılık, rastlantısal bağlılık NOT3:Bağlaştırmaile karşılaştırılmalıdır.
+cohesion: bağlılık, Tek bir modülün etkinliklerinin bir diğeri ile ilişkisinin biçim ve derecesi. NOT 1: Güçlü bağlılık modülün etkinlikleri arasındaki kapsamlı ilişkiler anlamına gelir. NOT 2: Bağlılık çeşitleri güçlüden zayıfa aşağıdaki gibi sıralanabilir: işlevsel bağlılık, bilgisel bağlılık, iletişimsel bağlılık, geçici bağlılık, mantıksal bağlılık, rastlantısal bağlılık NOT3: Bağlaştırmaile karşılaştırılmalıdır.
 
 coincidental cohesion: rastlantısal bağlılık, Bir modülün etkinliklerinin birinin bir diğeri ile hiçbir işlevsel ilişkisinin olmadığı bağlılık.
 
@@ -981,9 +975,9 @@ comparator: karşılaştırıcı, (Örneksel hesaplamada) İki örneksel değiş
 
 compare: karşılaştırmak, İki tek değerin bağıl büyüklüklerini, bir dizi, sıra ya da verilen özellikler içinde aynı olup olmadıklarını bağıl konumlarına göre kontrol etmek.
 
-compartmentalization:bölmelere ayırma, Riski azaltmak amacı ile verinin, farklı güvenlik kontrollerine sahip birbirinden yalıtılmış bloklara ayrılarak bölünmesi. ÖRNEK: Bir ana projeye göre verinin, projenin bütününün sergilenmesini sınırlamak için, alt projelere karşılık gelecek şekilde, her biri kendi güvenlik koruması olan bölümlere ayrılması.
+compartmentalization: bölmelere ayırma, Riski azaltmak amacı ile verinin, farklı güvenlik kontrollerine sahip birbirinden yalıtılmış bloklara ayrılarak bölünmesi. ÖRNEK: Bir ana projeye göre verinin, projenin bütününün sergilenmesini sınırlamak için, alt projelere karşılık gelecek şekilde, her biri kendi güvenlik koruması olan bölümlere ayrılması.
 
-compatibility: uyumluluk, Farkedilirderecededüzeltme yapmaksızın belirtilmiş bir ara birimin ihtiyaçlarını karşılayacak bir işlevsel birim yeteneği.
+compatibility: uyumluluk, Farkedilir derecede düzeltme yapmaksızın belirtilmiş bir ara birimin ihtiyaçlarını karşılayacak bir işlevsel birim yeteneği.
 
 competitive learning: rekabete dayalı öğrenme, Yapay sinirlerin giriş örüntülerinin belirli bir alt kümesine yanıt verme hakkı için rekabet ettikleri öğrenme. NOT: Bir giriş örüntüsüne göre bir sinirin yanıtı, diğer sinirleri engelleyecek şekilde olur.
 
@@ -991,7 +985,7 @@ compilation: derleme, Derleme süreci ya da sonucu.
 
 compilation duration: derleme süresi, Bir programı derlemek için gerek duyulan zaman miktarı.
 
-compilation time: derleme zamanı 1. Derlemenin gerçekleştiği herhangi bir an. 2. bkz. compilation duration
+compilation time: derleme zamanı, 1. Derlemenin gerçekleştiği herhangi bir an. 2. bkz. compilation duration
 
 compilation unit: derleme birimi, 1. Yüksek düzey bir dilde ifade edilen ve derlenecek kadar tam olan bir programın tümü ya da bir bölümü. 2. bkz. source module
 
@@ -1093,15 +1087,13 @@ computer-aidedproduction management: bilgisayar destekli üretim yönetimi, Kayn
 
 computer-aided quality assurance: bilgisayar destekli kalite güvencesi, Süreçlerin, bölümlerin ve ürün yaşam döngüsünün her hangi bir evresindeki ürünlerin bilgisayarla planlaması, izlenmesi ve denetimi ile sağlanan kalite güvencesi. NOT: Bilgisayar destekli kalite güvencesi, tasarımdan alan performansına ve mağaza katından yönetime kadar bir kalite raporlama sistemini içerir ve üretim tarihçesini de içerebilir.
 
-computer-aided testing: bilgisayar destekli test, Bir ürün ya da onun bir parçasının veri işleme sistemlerinin kullanımıyla denetlenmesi
-
-ve test edilmesi. NOT: Bilgisayar destekli deneme bilgisayar destekli kalite güvencesinin bir türevidir.
+computer-aided testing: bilgisayar destekli test, Bir ürün ya da onun bir parçasının veri işleme sistemlerinin kullanımıyla denetlenmesi ve test edilmesi. NOT: Bilgisayar destekli deneme bilgisayar destekli kalite güvencesinin bir türevidir.
 
 computer-integrated manufacturing: bilgisayar tümleşik üretim, Tüm etkinliklerinin bilgisayar tabanlı planlama, yönetim ve denetim sistemi içerisinde yapıldığı üretim. NOT: Bilgisayarlı üretim, bilgisayar destekli tasarım, bilgisayar destekli planlama, bilgisayar destekli üretim ve bilgisayar destekli kalite güvencesi teknolojilerini ve bunlar arasındaki bilgi paylaşımını içerir.
 
-computerization:bilgisayarlı otomasyon, Bilgisayar aracılığı ile otomasyon.
+computerization: bilgisayarlı otomasyon, Bilgisayar aracılığı ile otomasyon.
 
-computerize:bilgisayarla otomatikleştirmek, (f.) Bilgisayar aracılığıyla otomatikleştirmek.
+computerize: bilgisayarla otomatikleştirmek, (f.) Bilgisayar aracılığıyla otomatikleştirmek.
 
 computer-system audit: bilgisayar sistemi denetimi, Bir veri işleme sisteminde yordamların etkinliklerini, oğruluklarını değerlendirmek ve geliştirici önerilerde bulunmak için kullanılan yordamların incelenmesi.
 
@@ -1151,17 +1143,17 @@ conditional jump instruction: koşullu sıçrama komutu, Sıçrama eylemi için 
 
 conditional statement: koşullu deyim, Bir veya daha fazla uygun koşulu, koşul deyimine bağlı olan deyimlerinkümelerindenbirini gerçekleştirmek amacıyla seçen veya hiçbirini seçmeyen birleşik deyim. ORNEK: Pascal dilinde, "if" deyimleri ve "case" deyimleri koşullu deyimlerdir.
 
-confidencefactor:güvenfaktörü, koşullu bilgi içeriği ve p(xi, j) ise her iki olayın koşullu olasılığıdır.
+confidencefactor: güvenfaktörü, koşullu bilgi içeriği ve p(xi, j) ise her iki olayın koşullu olasılığıdır.
 
 confidentiality: gizlilik, Verilere yetkisiz kişilerin, uygulamaların veya diğer varlıkların ulaşımına izin verilmemesi veya kapatılması derecesini gösteren veri özelliği.
 
-configuration:konfigürasyon, Bir bilgi işleme sisteminin yazılım ve donanımının düzenlendiği ve birbirine bağlandığı yöntem.
+configuration: konfigürasyon, Bir bilgi işleme sisteminin yazılım ve donanımının düzenlendiği ve birbirine bağlandığı yöntem.
 
 configuration control board: konfigürasyon denetim kurulu, Bir uygulamanın temel geliştirme çalışmasına getirilen olumlu ya da olumsuzbütündeğişiklikleri değerlendiren uzman personel.
 
 confirm primitive: onay temel öğesi, Aynı hizmet erişim noktasındaki istek temel öğesi tarafından önceden başlatılan bir işlemin tamamlandığını göstermek için bir hizmet kullanıcısı tarafından yayımlanan temel öğe. NOT: Şekil 26.3’e bakınız.
 
-confirmability:onaylanabilirlik, Bir programın tüm parçaları kolaylıkla test edilebilecek şekilde tasarlanma ve yapılandırılma derecesinin bir ölçüsü.
+confirmability: onaylanabilirlik, Bir programın tüm parçaları kolaylıkla test edilebilecek şekilde tasarlanma ve yapılandırılma derecesinin bir ölçüsü.
 
 conflict resolution: uyuşmazlık çözümü, Kural tabanlı bir sistemde çoklu eşleştirme problemini en uygun kuralı seçerek çözme. NOT: İki kuralın uyuşmayan bildirimler üretmesi durumunda örüntü eşleştirmede ya da kuralın sol tarafında çoklu eşleşmeler ortaya çıkabilir.
 
@@ -1267,7 +1259,7 @@ controlled maintenance: denetimli bakım, Hizmetin hedeflenen kalitesinin, asgar
 
 conversational mode: konuşma modu, İki insan arasındaki diyaloga benzer şekilde bir kullanıcıyla sistem arasındaki girişler ve yanıtlar dizisi şeklinde oluştuğu bir bilgisayar sistemi işlem modu.
 
-convert: dönüştürmek, (f.) Verinin anlamını değiştirmeksizin belirli kurallara göre gösterim biçimini değiştirmek.ÖRNEK:Taban dönüştürme, kod dönüştürme, örnekselden sayısala dönüştürme, ortam dönüştürme.
+convert: dönüştürmek, (f.) Verinin anlamını değiştirmeksizin belirli kurallara göre gösterim biçimini değiştirmek. ÖRNEK: Taban dönüştürme, kod dönüştürme, örnekselden sayısala dönüştürme, ortam dönüştürme.
 
 copy: kopyalamak, (f.) Veriyi değiştirmeden bir kaynaktan, okumak ve kaynaktan farklı da olabilen başka bir veri ortamına yazmak. ÖRNEK: Bir manyetik şerit üzerindeki bir dosyayı manyetik disk ortamına kopyalamak.
 
@@ -1351,8 +1343,7 @@ data circuit: veri devresi, İki yönde veri iletimi sağlayan bir çift ilişki
 
 data circuit transparency: veri devresi saydamlığı, Bir veri devresinin verinin içeriğini ve yapısını değiştirmeksizin tüm verileri aktarma yeteneği.
 
-data circuit-terminating equipment:
-veri devresi sonlandırma aygıtı, Bir veri istasyonu içinde, veri terminal aygıtı ve hat arasında sinyal dönüştürme ve kodlama sağlayan aygıt. NOT 1: DCE ayrı bir aygıt ya da veri terminal aygıtının veya ara aygıtın bir parçası olabilir. NOT 2: DCE genellikle ağ hattının sonunda yapılan diğer işlemleri gerçekleştirebilir. NOT 3: Şekil 9.4'e bakınız.
+data circuit-terminating equipment: veri devresi sonlandırma aygıtı, Bir veri istasyonu içinde, veri terminal aygıtı ve hat arasında sinyal dönüştürme ve kodlama sağlayan aygıt. NOT 1: DCE ayrı bir aygıt ya da veri terminal aygıtının veya ara aygıtın bir parçası olabilir. NOT 2: DCE genellikle ağ hattının sonunda yapılan diğer işlemleri gerçekleştirebilir. NOT 3: Şekil 9.4'e bakınız.
 
 data collection: veri toplama, Bilgisayar ortamında kullanmak amacıyla veriyi bir ya da daha fazla noktadan toplama işlemi. ÖRNEK: Bilgi işlem merkezinde kullanılmak üzere veri ağı tarafından bölge ofislerinde üretilen hareketlerin toplanması.
 
@@ -1388,9 +1379,7 @@ data field: veri alanı, (Veri tabanlarında) Alan türünün bir örneği olan 
 
 data flow: veri akışı, Belirli bir işin başarımı esnasında bir veri işleme sisteminin etkin parçaları arasında verinin hareketi.
 
-data flow diagram: veri akış diyagramı, Veri kaynakları, veri havuzları, veri saklama ve veri üzerinde gerçekleştirilen süreçleri düğümler olarak ve verinin mantıksal akışını düğümler
-
-arasındaki bağlantılar olarak gösteren diyagram. NOT: Şekil 7.4’e bakınız.
+data flow diagram: veri akış diyagramı, Veri kaynakları, veri havuzları, veri saklama ve veri üzerinde gerçekleştirilen süreçleri düğümler olarak ve verinin mantıksal akışını düğümler arasındaki bağlantılar olarak gösteren diyagram. NOT: Şekil 7.4’e bakınız.
 
 data independence: veri bağımsızlığı, Uygulama programlarının veri yapısındaki değişikliklerden bağımsız olduklarını hesaba katan bir veri tabanı yönetim sistemi niteliği.
 
@@ -1618,7 +1607,7 @@ device coordinate: aygıt koordinatı, Aygıt bağımlı bir koordinat sistemi t
 
 device space: aygıt uzayı, Bir görüntü aygıtının adreslenebilir noktalarının tümü tarafından tanımlanan uzay.
 
-devicetransformation:aygıt dönüşümü, Normalleştirilmiş aygıt koordinatından aygıt koordinatına bir koordinat dönüşümü
+devicetransformation: aygıt dönüşümü, Normalleştirilmiş aygıt koordinatından aygıt koordinatına bir koordinat dönüşümü
 
 diagnostic: tanı, (s.) Bozuklukların, arızaların ya da yanılgıların algılanması, çözümlenmesi ya da açıklanmasına ait.
 
@@ -1688,7 +1677,7 @@ direct user: doğrudan kullanıcı, İleti işleme sistemini doğrudan kullanara
 
 direct waveform synthesis: doğrudan dalga biçimli sentezleme, Konuşma sinyallerini (sayısal veya analog biçimde) kaydetmeyi ve daha sonra bunları uygulama gereksinimlerine göre istek üzerine geri oynatmayı içeren basit bir konuşma sentezleme metodu. NOT: Doğrudan dalga biçiminde sentezleme erişim gecikmelerini ortaya çıkarabilir ve mevcut kayıt ortamının kapasitesiyle sınırlı, fakat yapay konuşma genellikle yüksek kalitede olur.
 
-directlyrecursive:doğrudan özyinelemeli, Kendisine çağrı içeren bir alt progama ait.
+directlyrecursive: doğrudan özyinelemeli, Kendisine çağrı içeren bir alt progama ait.
 
 Directory: dizin, (Elektronik postada) Bir bilgisayar ağı üzerinde adreslenebilen kullanıcılar ya da hizmetlerin düzenlenmiş listesi.
 
@@ -1708,9 +1697,7 @@ directory system: dizin sistemi, (OSI'de) Gerçek dünyadaki bir grup nesne hakk
 
 directory system: dizin sistemi, Dizin hizmetlerini sağlamak için iş birliği yapan açık sistemler topluluğu.
 
-directory system agent: dizin sistemi temsilcisi, Dizin bilgi
-
-tabanında bulunan bilgiye ulaşmayı sağlayan dizin sisteminin işlevsel birimi. NOT: Şekil 32.3’e bakınız.
+directory system agent: dizin sistemi temsilcisi, Dizin bilgi tabanında bulunan bilgiye ulaşmayı sağlayan dizin sisteminin işlevsel birimi. NOT: Şekil 32.3’e bakınız.
 
 directory user: dizin kullanıcısı, Dizin sistemine ulaşan bir işlevsel birim veya kişi.
 
@@ -1806,7 +1793,7 @@ document body: belge gövdesi, Bir belgenin metin ve yerleşim bilgisini içeren
 
 document delivery: belge dağıtımı, Bir belgenin alıcı ortamına aktarılması.
 
-documentformatter:belge biçimlendirici, Kullanıcının bir belgeyi düzenlemesine ve belgenin yazdırılabilir bir kopyasını elde etmesine olanak sağlayan program. NOT: Bir belge biçimlendirici, sayfa ve paragraf numaralandırma gibi diğer işlemleri de yapabilir.
+documentformatter: belge biçimlendirici, Kullanıcının bir belgeyi düzenlemesine ve belgenin yazdırılabilir bir kopyasını elde etmesine olanak sağlayan program. NOT: Bir belge biçimlendirici, sayfa ve paragraf numaralandırma gibi diğer işlemleri de yapabilir.
 
 document interchange format: belge değişim biçimi, Büro otomasyon sistemlerinin kullanıcıları arasında değişim amacıyla dokümanları temsil eden belirtimler.
 
@@ -1872,7 +1859,7 @@ dynamic binding: dinamik ilişkilendirme, Bir programın yürütülmesi esnasın
 
 dynamic breakpoint: dinamik kesme noktası, Kendisinin ya da bir başka programın yürütülmesi esnasında kendisini başlatan belirli olay ya da koşullar için kesme noktası.
 
-dynamicbuffering:dinamik tamponlama, Tampon belleğin dinamik olarak atanması.
+dynamicbuffering: dinamik tamponlama, Tampon belleğin dinamik olarak atanması.
 
 dynamic relocation: dinamik yer değiştirme, Programın ana belleğin farklı bir alanından yürütebilmesi amacıyla, yürütme sırasında bilgisayar programına yeni salt adres atamak için kullanılan süreç.
 
@@ -1930,7 +1917,7 @@ embedded command: gömülü komut, (Metin işlemede) Metnin parçası olarak gir
 
 embedded database language: gömülü veri tabanı dili, Veri tabanlarını kullanmak için geleneksel bir programlama diline eklenmiş bir deyimler grubu. Örnek: COBOL diline gömülü SQL.
 
-emoticon: duygu sembolü, İleti göndericinin ruhsal durumunu göstermek için karakterler kullanılarak oluşturulan birleşik sembol. ÖRNEKLER: Yaygın olarak kullanılan duygu sembolleri şunlardır::) Mutlu anlamına gelir.:( Üzgün anlamına gelir.
+emoticon: duygu sembolü, İleti göndericinin ruhsal durumunu göstermek için karakterler kullanılarak oluşturulan birleşik sembol. ÖRNEKLER: Yaygın olarak kullanılan duygu sembolleri şunlardır: : ) Mutlu anlamına gelir. : ( Üzgün anlamına gelir.
 
 empty medium: boş ortam, Referans bilgi dışında bilgi içermeyen veri ortamı.
 
@@ -2116,21 +2103,19 @@ expression language: deyim dili, Bir deyim bağlamında atamaların yapılabildi
 
 extended result output function: uzatılmış sonuç çıktı işlevi, Birbirini izleyen işlemlerle elde edilen ve sonuçtaki basamak sayısı, hesap makinesinin çıkış kapasitesini aşan hesaplamaların sonucunun yazılmasını ve gösterilmesini sağlayan işlev.
 
-extensibility:genişletilebilirlik, Bir programlama dilinin, yeni dil yapılarının belirtimine ve bunların standart dil yapıları anlamında söz dizimsel kullanımına izin vermesi yeteneği.
+extensibility: genişletilebilirlik, Bir programlama dilinin, yeni dil yapılarının belirtimine ve bunların standart dil yapıları anlamında söz dizimsel kullanımına izin vermesi yeteneği.
 
 extensible language: genişletilebilir dil, Bir programcıya kullanıcı tarafından belirlenen ek yetenekler sağlamak için değiştirilebilen ya da kendi kendini değiştirebilen programlama dili. ÖRNEKLER: Ada, C++, FORTH, LISP, LOGO, Prolog, Smalltalk.
 
 external: dışsal, İçinde referans gösterilen modülün dışarıda tanımlandığı bir program yapısına ait olma. NOT: Bir bildirimin, tam tanımn dışarıda olduğunu işaret etmek ve ad sağlamak için modülün içinde olması gerekebilir.
 
-external coupling: dış bağlaştırma, eğişkenlerin bağlaştırmasının, biçimsel olarak dış
-
-olacak şekilde tanımlanmış değişkenlerle sınırlandırılarak denetlendiği bağlaştırma. NOT: PL/1 bu yeteneği olan programlama dillerinden biridir.
+external coupling: dış bağlaştırma, eğişkenlerin bağlaştırmasının, biçimsel olarak dış olacak şekilde tanımlanmış değişkenlerle sınırlandırılarak denetlendiği bağlaştırma. NOT: PL/1 bu yeteneği olan programlama dillerinden biridir.
 
 external level: dış düzey, Bir bilgi sisteminin girdi ve çıktısındaki görünebilir bilginin kullanıcı esaslı temsil edilmesi ile uğraşan tüm yönlerde göz önünde tutulan düzey.
 
 external schema: dış şema, Dış düzeye ait olan ve belirli bir kullanıcı bakışıiçindekicümlelerinolası toplanmalarınındışsalolaraktemsil edilmelerinivebutemsiledilmelerin işlenmeyönlerinideiçinealarak tanımlayanveritabanışemasının parçası.
 
-extra-pulse:fazladanvuru, Kayıt yada okuma sırasında oluşan ve kabul edilebilir olmayan bir ek vuru.
+extra-pulse: fazladanvuru, Kayıt yada okuma sırasında oluşan ve kabul edilebilir olmayan bir ek vuru.
 
 extra sector: ek sektör, Kopya koruma metodunun bir parçası olarak, bir ize standard sektör sayısını aşacak şekilde kalan bilginin yazıldığı sektör.
 
@@ -2260,8 +2245,7 @@ floating-point base: kayan nokta tabanı, Bir kayan nokta gösterim sisteminde, 
 
 floating-point representation: kayan nokta gösterimi, Bir gerçel sayının bir kayan nokta gösterim sisteminde gösterimi. ÖRNEK: Aşağıdaki sayının kayan nokta gösterim sisteminde gösterimi: 0, 001234 = 0.1234E-3 burada 0, 234 mantis’dir; -3 üs’dür, ve E ile ifade edilir. Sayılar değişken noktalı ondalık sistemde ifade edilir. Kayan nokta tabanı 10’dur.
 
-floating-point representation system:
-kayan nokta gösterim sistemi,  İçerisinde bir gerçel sayının biribirinden farklı bir çift sayı ile gösterildiği bir sayma sistemi, gerçel sayı; sayılardan biri olan mantis ile diğer sayı tarafından gösterilen bir üs ile temsil edilen bir kuvvetin kayan nokta tabanından üs alınmasıyla elde edilen bir değerdir. NOT: Kayan nokta gösterim sisteminde, kök noktanın hareket ettirilmesiyle ve uygun şekilde üssün ayarlanmasıyla elde edilen aynı sayının pek çok gösterimi mevcuttur.
+floating-point representation system: kayan nokta gösterim sistemi,  İçerisinde bir gerçel sayının biribirinden farklı bir çift sayı ile gösterildiği bir sayma sistemi, gerçel sayı; sayılardan biri olan mantis ile diğer sayı tarafından gösterilen bir üs ile temsil edilen bir kuvvetin kayan nokta tabanından üs alınmasıyla elde edilen bir değerdir. NOT: Kayan nokta gösterim sisteminde, kök noktanın hareket ettirilmesiyle ve uygun şekilde üssün ayarlanmasıyla elde edilen aynı sayının pek çok gösterimi mevcuttur.
 
 floating-point type: kayan noktalı tür, Her bir veri nesnesinin kayan noktalı temsil edilen bir sistemde ifade edildiği bir veri türü. NOT: Şekil 1.1'e bakınız.
 
@@ -2313,7 +2297,7 @@ formating: biçimleme, (Metin işlemede) Kullanıcı tarafından belirlenmiş kr
 
 forward: iletmek, (f.) Alınan bir iletiye yeni bir amaçlanan alıcı atayarak ileti yaratmak.
 
-forward chaining:ileri yönde zincirleme, Yerleşik gerçekler ile başlayarak ve kural tabanlı bir sistemin bir amaca ulaştığı ya da yeni olasılıkları bitirdiğinde sona ererek elde edilen sonuç çıkarmaların sırasını düzenleyen yinelemeli yordam.
+forward chaining: ileri yönde zincirleme, Yerleşik gerçekler ile başlayarak ve kural tabanlı bir sistemin bir amaca ulaştığı ya da yeni olasılıkları bitirdiğinde sona ererek elde edilen sonuç çıkarmaların sırasını düzenleyen yinelemeli yordam.
 
 forward channel: ileri aktarma kanalı, İletim yönünün, kullanıcı verilerinin aktarıldığı yön ile sınırlandırıldığı bir iletim kanalı.
 
@@ -2345,7 +2329,7 @@ front-end processor: ön uç işlemci, Bir bilgisayar ağında, ana bilgisayarı
 
 full-page display: tüm sayfa görüntüsü, Bir sayfada bir anda yazdırılabilecek kadar çok sayıda grafiğin ya da metin satırının görüntüsü.
 
-fully connected network: tam bağlantılı ağ, Herhangi iki düğüm noktası arasında bir dalın olduğu bir ağ. NOT:Şekil 18.3'e bakınız.
+fully connected network: tam bağlantılı ağ, Herhangi iki düğüm noktası arasında bir dalın olduğu bir ağ. NOT: Şekil 18.3'e bakınız.
 
 function: fonksiyon, işlev, 1. Bir değişkenin alabileceği değerlerin oluşturduğu A tanım kümesinin herhangi bir elemanını değer kümesi diye isimlendirdiğimiz B kümesine ilişkin herhangi bir elemana götüren f bağlantısına A tanım kümesinden B'ye bir fonksiyon denir. 2. (programlama dillerinde) Çağrıldığı yere getirdiği bir veri değerini üreten genellikle biçimsel parametreleri olan bir alt program. NOT: Bir işlev aynı zamanda parametrelerin kullanımı yoluyla diğer değişiklikleri üretebilir.
 
@@ -2379,7 +2363,7 @@ gas panel: gaz paneli, Bir düzlemde gazla doldurulmuş bir panel içinde elektr
 
 gate: geçit, Temel bir mantıksal işlem gerçekleştiren bir kombinasyonel devre. NOT: “Geçit” terimi genellikle bir çıkış içerir.
 
-gateway: ağ geçidi, Farklı ağ mimarisine sahip iki bilgisayar ağını birbirine bağlayan işlevsel birim. ÖRNEK:
+gateway: ağ geçidi, Farklı ağ mimarisine sahip iki bilgisayar ağını birbirine bağlayan işlevsel birim.
 
 general-purpose language: genel amaçlı dil, Çok çeşitli uygulamalarda kullanıma uygun olan yüksek düzey dil. 
 
@@ -2388,7 +2372,7 @@ generic: genel yapı, Zorunlu yazma kurallarına uygun olarak uygulanabilir veri
 
 generated address: üretilmiş adres, Bir programın yürütülmesi esnasında hesaplanmış adres.
 
-generatingfunction:üretme fonksiyonu, Üretme fonksiyonu, verilen bir dizinin fonksiyonları ya da sabitleri, sonsuz bir seri tarafından gösterildiğinde, seride katsayı olan fonksiyon ya da sabitlerin matematikle ilgili fonksiyonudur. 
+generatingfunction: üretme fonksiyonu, Üretme fonksiyonu, verilen bir dizinin fonksiyonları ya da sabitleri, sonsuz bir seri tarafından gösterildiğinde, seride katsayı olan fonksiyon ya da sabitlerin matematikle ilgili fonksiyonudur. 
 
 generic: genel yapı,  Zorunlu yazma kurallarına uygun olarak uygulanabilir veri türleri için gerçek dil yapısı oluşturmak amacıyla bir şablon olarak hizmet eden bir dil yapısına ait olma.
 
@@ -2511,7 +2495,7 @@ heuristic learning: buluşsal öğrenme, Deney, değerlendirme ya da denemeyanı
 
 heuristic method: buluşsal metot, Buluşa yarayan metot, bir soruna bir dizi yaklaşık sonucun değerlendirilmesini kullanarak, yapılan buluşlara uygun çözüm arayan metottur. Örneğin, sınama ve yanılmayla yönlendirilmiş bir işlem.
 
-heuristic rule:buluşsal kural, Bir uzmanın bir problemi çözmek için kullandığı bilgi ve deneyimi biçimsel hale getirmek için yazılmış olan planlanmamış kural.
+heuristic rule: buluşsal kural, Bir uzmanın bir problemi çözmek için kullandığı bilgi ve deneyimi biçimsel hale getirmek için yazılmış olan planlanmamış kural.
 
 heuristic search: buluşsal arama, Deneyim ve tahminlere dayalı olan, başarı garantisi olmaksızın kabul edilebilir sonuçları elde etmek için kullanılan arama.
 
@@ -2545,9 +2529,7 @@ hierarchy: hiyerarşi, sıradüzen, Bileşenlerinin iletişim amacıyla belirli 
 
 high-level data link control: üst düzey veri bağlantı kontrolü, Veri değişimi için ISO/IEC 3309 standardında tanımlanan çerçeve yapısını kullanarak bit esaslı protokol yolu ile veri bağlantılarının kontrolü.
 
-high-level language: yüksek düzey dil, Belirli problem sınıfları için
-
-tasarlanmış ve sözdizimsel olarak bunlara yönelimli olan ve gerçekte belirli bir bilgisayar ya da bilgisayar sınıfının yapısından bağımsız olan programlama dili. ÖRNEKLER: Ada, COBOL, Fortran, Pascal.
+high-level language: yüksek düzey dil, Belirli problem sınıfları için tasarlanmış ve sözdizimsel olarak bunlara yönelimli olan ve gerçekte belirli bir bilgisayar ya da bilgisayar sınıfının yapısından bağımsız olan programlama dili. ÖRNEKLER: Ada, COBOL, Fortran, Pascal.
 
 highlighting: önemini vurgulama, Bir görüntü elemanının görsel niteliklerinin değiştirilerek vurgulanması.
 
@@ -2575,7 +2557,7 @@ host language: ana dil, Bir veri düzenleme dilinin deyimlerinin gömülü oldu�
 
 host language: ana dil, (Veri tabanlarında) İçinde bir gömülü veri tabanı dili bulundurabilen programlama dili.
 
-host machine: ana makine 1. Bir başka bilgisayar için amaçlanan yazılımı geliştirmek amacıyla kullanılan bilgisayar. 2. Bir başka bilgisayarı taklit etmek için kullanılan bilgisayar. 3. Bir program ya da dosyanın kurulu olduğu bilgisayar. NOT: bkz. hedef makine.
+host machine: ana makine, 1. Bir başka bilgisayar için amaçlanan yazılımı geliştirmek amacıyla kullanılan bilgisayar. 2. Bir başka bilgisayarı taklit etmek için kullanılan bilgisayar. 3. Bir program ya da dosyanın kurulu olduğu bilgisayar. NOT: bkz. hedef makine.
 
 hot site: otomatik yedek sistem, Alternatif olarak anında veri işlem yeteneği sağlayan tam donanımlı bir bilgisayar merkezi.
 
@@ -2643,7 +2625,7 @@ impact printer: vuruşlu yazıcı, Yazma ortamına, mekanik vuruşlarla yazma i�
 
 imperative language: emirsel dil, Birincil etkisini değişkenlerin durumunu atamayla değiştirerek başaran bir programlama dili.
 
-implementation:gerçekleştirme, (Bir sistem için) Düşünülen bir sistemin donanım, yazılım ve yordamlarının çalışır hale gelmesini sağlayan sistem geliştirme aşaması.
+implementation: gerçekleştirme, (Bir sistem için) Düşünülen bir sistemin donanım, yazılım ve yordamlarının çalışır hale gelmesini sağlayan sistem geliştirme aşaması.
 
 implication: gerektirme, Yalnız ve yalnız birinci işlem gören terimin Boole değeri «O» ve ikinci işlem gören terimin Boole değeri «1» ise, ikili Boole işleminin sonucu 0 olan işlem.
 
@@ -2693,13 +2675,13 @@ indirect submission: dolaylı gönderme, Bir kullanıcı temsilcisinin bir ileti
 
 indirect user: dolaylı kullanıcı, Bir ileti işleme sistemine bağlı başka bir iletişim sistemi aracılığıyla ileti işlemeye katılan kullanıcı. NOT 1: Diğer iletişim sistemi bir posta veya teleks sistemi olabilir. NOT 2: Şekil 32.6’ya bakınız.
 
-indirectlyrecursive:dolaylı özyinelemeli, Özgün alt programı çağıran veya sonuç olarak özgün alt programın bir alt program çağrısına yönelten alt program çağrıları zincirini başlatan bir başka alt programı çağıran alt programa ait.
+indirectlyrecursive: dolaylı özyinelemeli, Özgün alt programı çağıran veya sonuç olarak özgün alt programın bir alt program çağrısına yönelten alt program çağrıları zincirini başlatan bir başka alt programı çağıran alt programa ait.
 
 İnduction: tümevarım, Verilen gerçeklerle başlayan ve genel hipotezlere göre sonuca varan sonuç çıkarma.
 
 inductive learning: tümevarım metoduyla öğrenme, Tümevarımların, sağlanan bilgi, örnekler ve gözlemlerden çıkarıldığı öğrenme stratejisi.
 
-inference sonuç çıkarma, Sonuçların bilinen dayanaklardan türetildiği akıl yürütme. NOT 1: Yapay zekada, dayanak ya bir gerçek ya da bir kuraldır. NOT 2: "Sonuç çıkarma" terimi hem süreç hem de sonucu kapsar.
+inference: sonuç çıkarma, Sonuçların bilinen dayanaklardan türetildiği akıl yürütme. NOT 1: Yapay zekada, dayanak ya bir gerçek ya da bir kuraldır. NOT 2: "Sonuç çıkarma" terimi hem süreç hem de sonucu kapsar.
 
 inference engine: sonuç çıkarma motoru, Bir bilgi tabanında depolanmış bilgi gösterimlerinden sonuçlar çıkarmak için akıl yürütme prensipleri uygulayan bir uzman sistem bileşeni.
 
@@ -2775,7 +2757,7 @@ inquiry station: sorgu istasyonu, Temel olarak bilgisayarın sorgulanması amac�
 
 insert: araya girme, Kullanıcının, mevcut metin içine ek metin yerleştirmesine olanak sağlayan mod ya da işlev. Metin, eklemeyi uyarlamak için otomatik olarak yeniden düzenlenir.
 
-instantiation örnekleme, Bir değişken değerinin yerine koyma ya da bir sınıftan bir örnek oluşturma. ÖRNEK: Belirli bir hastalığı olan kişi, genel "hasta" nesnesinin bir örneklemesidir. NOT: Bir kural tabanlı sistemde, örnekleme bir kuralın bilgi tabanının içeriği ile başarılı şekilde eşlemesinin sonucudur.
+instantiation: örnekleme, Bir değişken değerinin yerine koyma ya da bir sınıftan bir örnek oluşturma. ÖRNEK: Belirli bir hastalığı olan kişi, genel "hasta" nesnesinin bir örneklemesidir. NOT: Bir kural tabanlı sistemde, örnekleme bir kuralın bilgi tabanının içeriği ile başarılı şekilde eşlemesinin sonucudur.
 
 instruction: komut, Bir işlemin belirtimi ve ilişkili herhangi bir işlenenin kimliği.
 
@@ -2823,7 +2805,7 @@ interactive voice response: etkileşimli sesli yanıt, Bir kullanıcıya ait kon
 
 interblock gap: öbekler arası boşluk, Bir veri ortamı üzerinde bulunan ve birbirini izleyen iki öbek arasındaki boşluk.
 
-interconnectivity:birbirine bağlanabilirlik, Farklı bilgisayar ağlarındaki bir veya daha fazla düğümün veri alış-verişi yapma yeteneği.
+interconnectivity: birbirine bağlanabilirlik, Farklı bilgisayar ağlarındaki bir veya daha fazla düğümün veri alış-verişi yapma yeteneği.
 
 interface: arayüz,  İşlevlere, fiziksel ara bağlantılara, sinyal değişimlerine ve uygun olan diğer özelliklere ait olan değişik karakteristikler tarafından tanımlanan iki fonksiyonel birim arasında paylaşılan ara yüzey.
 
@@ -2881,7 +2863,7 @@ irrational number: irrasyonel sayı, Rasyonel olmayan gerçel sayı.
 
 irrecoverable error: düzeltilemez hata, Etkilenmiş işlevsel birimin dışında harici kaynak ya da teknikler kullanmadan hatadan kurtulma işleminin gerçekleştirilemediği hata.
 
-irreversibleencryption:geri dönüştürülemez şifreleme, Orijinal verinin yeniden elde edilmesinin mümkün olmadığı şifreli metin üreten şifreleme. NOT: Geri dönüştürülemez şifreleme doğruluğun kanıtlanmasında oldukça kullanışlıdır. Mesela, bir parola geri dönüştürülemez olarak şifrelenir ve şifreli metin saklanır. Daha sonra sunulan parola aynı şekilde geri dönüştürülemez olarak şifrelenir ve şifreli metinlerin harf dizileri mukayese edilir. Birbirlerine özdeşlerse girilen parola doğru demektir.
+irreversible encryption: geri dönüştürülemez şifreleme, Orijinal verinin yeniden elde edilmesinin mümkün olmadığı şifreli metin üreten şifreleme. NOT: Geri dönüştürülemez şifreleme doğruluğun kanıtlanmasında oldukça kullanışlıdır. Mesela, bir parola geri dönüştürülemez olarak şifrelenir ve şifreli metin saklanır. Daha sonra sunulan parola aynı şekilde geri dönüştürülemez olarak şifrelenir ve şifreli metinlerin harf dizileri mukayese edilir. Birbirlerine özdeşlerse girilen parola doğru demektir.
 
 island: ada, Yükseklik çizgileri ve bir dolgu örüntüsü tarafından etrafı sarılarak sınırlanan bir alan.
 
@@ -2949,7 +2931,7 @@ knowledge base: bilgi tabanı,  Bir alandaki insan uzmanlığı ve deneyimi hakk
 
 knowledge engineer: bilgi mühendisi, Bir alan uzmanı ve diğer bilgi kaynaklarından bilgiyi elde eden ve bunları bir bilgi tabanı olarak düzenleyen kişi. NOT: Aynı zamanda bilgi mühendisliğine bakınız.
 
-knowledge engineering:bilgi mühendisliği, Etki alanı uzmanlarından ve diğer bilgi kaynaklarından bilgi edinmeyle ilgili olan ve edindiği bilgiyi bir bilgi tabanına yerleştiren disiplin. NOT: "Bilgi mühendisliği" kavramı bazen özellikle uzman sistemlerin ve diğer bilgi tabanlı sistemlerin tasarımı, oluşturulması ve bakımı sanatını kapsar.
+knowledge engineering: bilgi mühendisliği, Etki alanı uzmanlarından ve diğer bilgi kaynaklarından bilgi edinmeyle ilgili olan ve edindiği bilgiyi bir bilgi tabanına yerleştiren disiplin. NOT: "Bilgi mühendisliği" kavramı bazen özellikle uzman sistemlerin ve diğer bilgi tabanlı sistemlerin tasarımı, oluşturulması ve bakımı sanatını kapsar.
 
 knowledge engineering tool: bilgi mühendisliği aracı, Bilgi tabanlı sistemlerin hızlı şekilde geliştirilmesini kolaylaştırmak için tasarlanmış işlevsel araç. NOT: Bir bilgi mühendisliği aracı, tipik problemlerin kolayca işlenebilmesi için temel modelleme yapıları sağladığı gibi bilgi gösterimi, sonuç çıkarma ve denetim için belirli stratejileri birleştirir.
 
@@ -2999,9 +2981,7 @@ late binding: geç ilişkilendirme, İlişkilendirmelerin çoğunu genellikle es
 
 latency: gecikme, Komut kontrol biriminin veri için bir çağrı başlattığı an ile gerçek veri iletiminin başladığı an arasındaki zaman aralığı.
 
-layer: katman, (Sinir ağlarında) Hiyerarşik bir şekilde düzenlenmiş sinir ağında, çıkışların ağın çıkışı yönünde bir grup içindeki sinirlere bağlanabilen ancak ağ girişinin arka
-
-tarafındaki bir grup içindeki sinirlere bağlanamayan bir grup yapay sinir. NOT: Aynı katmanın yapay sinirleri aralarında bağlantılara sahip olabilirler.
+layer: katman, (Sinir ağlarında) Hiyerarşik bir şekilde düzenlenmiş sinir ağında, çıkışların ağın çıkışı yönünde bir grup içindeki sinirlere bağlanabilen ancak ağ girişinin arka tarafındaki bir grup içindeki sinirlere bağlanamayan bir grup yapay sinir. NOT: Aynı katmanın yapay sinirleri aralarında bağlantılara sahip olabilirler.
 
 layer: katman, 1. (Dağıtık veri işlemede) Hiyerarşik olarak düzenlenen gruplar kümesine ait olan, belirli bir ağ mimarisinin tüm veri işleme sistemleri boyunca uzanan ve bir bütün olarak dikkate alınan yetenekler, fonksiyonlar ve protokoller grubu. NOT: Örnek için Şekil 18.1’e bakınız. 2. (OSI'de) Açık sistemler ara bağlantısı referans modelinde; hizmetler, işlevler ve protokollerin kavramsal açıdan tam olarak tanımlanmış, hiyerarşik olarak düzenlenmiş ve tüm açık sistemlere uygulanan yedi grubundan biri. NOT: 1 Yedi katman Şekil 26.1'de gösterilmiştir. Her katman ismi (örneğin, "uygulama") aynı zamanda bir varlığı, hizmeti, protokolü yada o katmanın diğer bazı yönlerini belirtebilir. 2. Katman isimlerini kullanmak yerine, belli bir katman ve onun bitişik katmanları aşağıdaki gibi tanımlanır: (N) - katmanı: Verilen herhangi bir katman, (N+1) - katmanı: Bir üst katman, (N -1) - katmanı: Bir alt katman. Bu gösterim aynı zamanda, protokoller, hizmetler gibi bu katmanlarla ilgili modeldeki diğer kavramlar için de kullanılır (Şekil 26.2’ye bakınız).
 
@@ -3079,7 +3059,7 @@ linear list: doğrusal liste, Elemanları listeler olmayan bir liste.
 
 linear network: doğrusal ağ, Tam olarak içinde iki uç düğümün, değişik sayıda ara düğümün ve herhangi iki düğüm noktası arasında sadece bir yolun yer aldığı ağ. NOT 1: Doğrusal ağ, ağaç modelindeki ağın özel bir durumudur. NOT 2: Şekil 18.3'e bakınız.
 
-linear prediction coding doğrusal tahmin kodlaması, Tahmin edilen sinyal örneklerinin önceki örneklerin doğrusal birleşimleri oldukları tahmin kodlaması. NOT: Doğrusal birleşimlerin katsayıları, genellikle girdi sinyali ile önceki veriden elde edilen sinyal arasındaki ortalama kare hatasını en az düzeyde tutarak elde edilir.
+linear prediction coding: doğrusal tahmin kodlaması, Tahmin edilen sinyal örneklerinin önceki örneklerin doğrusal birleşimleri oldukları tahmin kodlaması. NOT: Doğrusal birleşimlerin katsayıları, genellikle girdi sinyali ile önceki veriden elde edilen sinyal arasındaki ortalama kare hatasını en az düzeyde tutarak elde edilir.
 
 linear search: doğrusal arama, Bir veri kümesi içerisinde verilerin sıradan taranarak aranması.
 
@@ -3105,13 +3085,7 @@ list processing: liste işleme, Listeler biçiminde bir veri işleme yöntemi. N
 
 list processing language: liste işleme dili, Listeler ya da karakter dizileri biçiminde ifade edilen veri üzerinde değişiklik yapabilmek için tasarlanmış programlama dili. ÖRNEK: LISP.
 
-literal: ifade, Sözdizimsel bakış açısından kendi kendisini ifade eden bir sözcüksel işaret. ÖRNEK: JAN, FEB, MAR isimleri, bir veri türünün aşağıdaki tanımlarında, ifade olarak adlandırılırlar. Month_Type (JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC); Month: Month_Type; Month:= APR;
-
-LLC type 1: LLC tür 1, bkz. logical link control type 1
-
-LLC type 2: LLC tür 2, bkz. logical link control type 2
-
-LLC type 3: LLC tür 3, bkz. logical link control type 3
+literal: ifade, Sözdizimsel bakış açısından kendi kendisini ifade eden bir sözcüksel işaret. ÖRNEK: JAN, FEB, MAR isimleri, bir veri türünün aşağıdaki tanımlarında, ifade olarak adlandırılırlar. Month_Type (JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC); Month: Month_Type; Month: = APR;
 
 load: yüklemek, 1. (f.) (Bilgisayar programlamada) Bir yükleyiciyi yürütmek. 2. (f.) (Veri tabanlarında) Bir veri tabanına veri yüklemek. 3. (f.) Veriyi bir bellek aygıtı ya da çalışma sayaçlarına aktarmak.
 
@@ -3157,7 +3131,7 @@ logic diagram: mantıksal şema, Bir mantıksal tasarımın grafik gösterimi.
 
 logic operation: mantık işlemi, 1. Sembolik mantığın kurallarını izleyen bir işlem. 2. Sonucun her karakteri, yalnız işlem gören her terimin karşılık gelen karakterine bağlı olan işlem. ÖRNEK: Ek- A' da “sonuç” kolonunda verilen iki Boole işlemleri.
 
-logicprogramming:mantık programlama, Bir programa giriş verisinin o programın kurallarına göre işlenmesi amacıyla önceden tanımlanmış algoritmaları olan mantıksal kurallar kümesi olarak yapılandırmak için bir metot.
+logicprogramming: mantık programlama, Bir programa giriş verisinin o programın kurallarına göre işlenmesi amacıyla önceden tanımlanmış algoritmaları olan mantıksal kurallar kümesi olarak yapılandırmak için bir metot.
 
 logic symbol: mantıksal sembol, Bir operatötü bir işlevi veya bir işlevsel ilişkiyi gösteren sembol.
 
@@ -3239,11 +3213,11 @@ macrogenerator: makro üretici, Karşılık gelen makro tanımı ile uyumlu olar
 
 macroinstruction: makro komutu, Çağıran programlama dili seviyesinde bir makro tanımını başlatan bir komut.
 
-macrolanguage: makro dili 1. Makro tanımlar ve makro komutlar tanımlamakiçintasarlanmış programlama dili. 2. Makro tanımlar ve makro komutlar içeren programlama dili.
+macrolanguage: makro dili, 1. Makro tanımlar ve makro komutlar tanımlamakiçintasarlanmış programlama dili. 2. Makro tanımlar ve makro komutlar içeren programlama dili.
 
 macroprocessor: makro işlemci, Makro tanımları desteklemek için bazı birleştirici ve derleyicilerde bulunan alt program.
 
-macroprogramming:makro programlama, Makro tanımlar ve makro komutlar ya da makro çağrıları kullanan programlama.
+macroprogramming: makro programlama, Makro tanımlar ve makro komutlar ya da makro çağrıları kullanan programlama.
 
 magnetic card: manyetik kart, Üzerine veri kaydedilebilen mıknatıslanabilir bir yüzeyi olan bir kart.
 
@@ -3283,7 +3257,7 @@ mail exploder: posta dağıtıcı, Bir iletiyi çoğaltan ve bunun sonucu ortaya
 
 mail gateway: posta ağ geçidi, İki ya da daha fazla farklı ileti işleme sistemini bağlayan ve bunlar arasında iletiler aktaran işlevsel birim.
 
-mailbox posta kutusu,  Gelen ve giden elektronik postaya erişilen bir mantıksal ya da sanal saklama alanı. NOT: Bir posta kutusu, ya gelen ya da giden iletiyi ya da her ikisini birden tutabilir.
+mailbox: posta kutusu, Gelen ve giden elektronik postaya erişilen bir mantıksal ya da sanal saklama alanı NOT: Bir posta kutusu, ya gelen ya da giden iletiyi ya da her ikisini birden tutabilir.
 
 main program: ana program, İşletilecek ve diğer modüllerin çalışmasını başlatabilecek olan programın ilk modülü.
 
@@ -3293,7 +3267,7 @@ mains/battery powered calculator: elektrikli/pilli hesap makinesi, Enerjisini el
 
 mains-powered calculator: elektrikli hesap makinesi, Enerjisi sadece elektrik akımına bağlı olan hesap makinesi.
 
-maintainability:sürdürülebilirlik, Bir işlevsel birimi, kullanım için belirlenmiş şartlar altında ve belirlenmiş yordam ve kaynaklar kullanılarak bakımı gerçekleştirildiğinde istenen bir işlevi yerine getirebileceği bir durumda tutma ya da o duruma getirilebilme yeteneği.
+maintainability: sürdürülebilirlik, Bir işlevsel birimi, kullanım için belirlenmiş şartlar altında ve belirlenmiş yordam ve kaynaklar kullanılarak bakımı gerçekleştirildiğinde istenen bir işlevi yerine getirebileceği bir durumda tutma ya da o duruma getirilebilme yeteneği.
 
 maintenance: bakım, Bir işlevsel birimin, istenen bir işlevi yerine getirebileceği bir durumda tutmak ya da bu duruma getirmek için yapılan etkinlikler kümesi. NOT: Bakım; gözlemler, testler, ölçmeler, yer değiştirmeler, tamiratlar ve bazı durumlarda yönetimle ilgili eylemler gibi eylemleri içerir.
 
@@ -3423,9 +3397,7 @@ merge: birleştirmek, Herbiri aynı düzende verilen iki veya daha fazla veri k�
 
 mesh network: örgü ağ, Aralarında iki veya daha fazla yol olan, en az iki düğümün olduğu bir ağ. NOT: Şekil 18.3'e bakınız.
 
-message: ileti, 1. (Bilgi ve iletişim kuramında) Bilgiyi taşımak için tasarlanmış sıralı karakterler dizisi. 2. (Elektronik mesajlaşmada) Bir öğe olarak aktarılan bitler ya da karakterler dizisi. NOT: Bir ileti, zarf ve içerik olmak üzere iki bölümden oluşur. 3. (programlama dillerinde) Bir
-
-nesnenin, işlemlerinden birini icra etmesi için bir istek. 4. (Elektronik postada) Kullanıcı temsilcileri arasında aktarılan bilgi nesnesi. NOT: Bir ileti genellikle iki parçadan oluşur: İçerik ve zarf.
+message: ileti, 1. (Bilgi ve iletişim kuramında) Bilgiyi taşımak için tasarlanmış sıralı karakterler dizisi. 2. (Elektronik mesajlaşmada) Bir öğe olarak aktarılan bitler ya da karakterler dizisi. NOT: Bir ileti, zarf ve içerik olmak üzere iki bölümden oluşur. 3. (programlama dillerinde) Bir nesnenin, işlemlerinden birini icra etmesi için bir istek. 4. (Elektronik postada) Kullanıcı temsilcileri arasında aktarılan bilgi nesnesi. NOT: Bir ileti genellikle iki parçadan oluşur: İçerik ve zarf.
 
 message authentication: mesaj doğrulama, Mesajın görünen kaynağından hedeflenen alıcıya gönderildiğinin ve taşıma esnasında değişmediğinin tasdik edilmesi.
 
@@ -3443,7 +3415,7 @@ message handling service: ileti işleme sistemi, Bir kullanıcıdan ve/veya merk
 
 message identification service: ileti tanıma hizmeti, Bir ileti aktarma sisteminin sistem tarafından gönderilen veya dağıtılan her ileti veya sorgulama için benzersiz kimliği olan bir kullanıcı temsilcisi sağlamasına izin veren hizmet. ÖRNEK: Zaman etiketi.
 
-message retrieval:ileti alımı, Gelen elektronik postanın posta kutusundan alınması süreci.
+message retrieval: ileti alımı, Gelen elektronik postanın posta kutusundan alınması süreci.
 
 message sink: ileti alım düğümü, İletişim sisteminde iletilerin alındığı bölüm.
 
@@ -3453,15 +3425,13 @@ message storage: ileti depolama, (Elektronik postada) İleti işleme sistemi iç
 
 message store: ileti deposu, İleti depolama yeteneğine sahip tek bir doğrudan kullanıcı sağlayan işlevsel birim. NOT: Şekil 32.1 ve Şekil 32.6’ya bakınız.
 
-messageswitching:mesaj anahtarlama, Bir veri ağında, mesajları alarak, gerekli olduğu zaman depolayarak ve mesajları tamamen göndererek yönlendiren işlem.
+messageswitching: mesaj anahtarlama, Bir veri ağında, mesajları alarak, gerekli olduğu zaman depolayarak ve mesajları tamamen göndererek yönlendiren işlem.
 
 message transfer (in electronic mail): ileti aktarma, (Elektronik postada) İletilerin bilgisayar ağları kullanılarak aktarımı.
 
 message transfer agent: ileti aktarma temsilcisi, İletileri kullanıcılara veya dağıtım listeleri tarafından tanımlanan kullanıcılar grubuna taşıyan ileti aktarma sisteminin işlevsel birimi. NOT: Şekil 32.2’ye bakınız.
 
-message transfer system: ileti aktarma sistemi, Kullanıcı temsilcileri, ileti depoları ve erişim birimleriarasında depola ve ilet ileti aktarımı sağlayan bir ya da daha fazla ileti aktarma temsilcisi
-
-içeren işlevsel birim. NOT: Şekil 32.2’ye bakınız.
+message transfer system: ileti aktarma sistemi, Kullanıcı temsilcileri, ileti depoları ve erişim birimleriarasında depola ve ilet ileti aktarımı sağlayan bir ya da daha fazla ileti aktarma temsilcisi içeren işlevsel birim. NOT: Şekil 32.2’ye bakınız.
 
 messaging subsystem: mesajlaşma alt sistemi, Bir ileti işleme sisteminin işlevsel önemi olan bir parçası. ÖRNEKLER: Bir kullanıcı temsilcisi veya posta dağıtıcı.
 
@@ -3475,7 +3445,7 @@ metalanguage: metadil, Bir başka dil ve olasılıkla kendisinin bazı ya da tü
 
 metarule: meta kural, Bir başka kural ya da verilen bir kurallar kümesinin uygulanmak zorunda olduğu koşullar, düzen ve biçimini belirleyen kural. NOT: Meta kurallar, uzman sistemlerde ve kural tabanlı sistemlerde etkili bir denetim mekanizması olabilir.
 
-method:yöntem,  (Programlama dillerinde) Bir iletinin alındı belgesi üzerine bir nesnenin uyguladığı işlem.
+method: yöntem,  (Programlama dillerinde) Bir iletinin alındı belgesi üzerine bir nesnenin uyguladığı işlem.
 
 metropolitan area network: şehir alan ağı, Aynı şehir alanı içinde kurulan yerel alan ağlarını bağlayan bilgisayar ağı. NOT: Bir MAN (ŞAA) genellikle birbirine bağlı ağlardan daha yüksek hızda çalışır, idari bağları geçer ve birkaç erişim metodunu destekler.
 
@@ -3487,19 +3457,19 @@ microcode assembler: mikro kod birleştirici, Mikro programları sembolik biçim
 
 microcomputer: mikro bilgisayar, İşlemci birimi bir veya daha fazla mikroişlemciyi içeren, ayrıca giriş-çıkış ve saklama kolaylıklarını sağlayan sayısal bilgisayar.
 
-microdiagnostic:mikrotanılayıcı, Bir işlevsel birim içine yerleştirilmiş ya da gerekirse dışarıda da olabilen, özel amaçlı bir mikroprogram kullanan bir tanılayıcı tekniği.
+microdiagnostic: mikrotanılayıcı, Bir işlevsel birim içine yerleştirilmiş ya da gerekirse dışarıda da olabilen, özel amaçlı bir mikroprogram kullanan bir tanılayıcı tekniği.
 
 microinstruction: mikro komut, Bir makine komutu ya da bir başka donanıma ait işlevin gerçekleştirilmesi için gerekli temel işlemlerden bir ya da daha fazlasını belirleyen ve bu işlemlere ait işlenenleri gösteren yönerge. NOT: Mikro komutlar gerçek makine komutlarıdır ve mikro kod daha kullanıcı dostu komut kümesine sahip görünen bir sanal makine yaratmak için kullanılır.
 
 microoperation: mikro işlem, Mikro programlamada, bir makine komutu ya da bir başka donanıma ait işlevin gerçekleştirilmesi için gerekli temel işlemlerden biri.
 
-microprocessor:mikroişlemci, Elemanları bir veya birkaç entegre devre içine sığacak şekilde küçültülmüş olan bir işlemci.
+microprocessor: mikroişlemci, Elemanları bir veya birkaç entegre devre içine sığacak şekilde küçültülmüş olan bir işlemci.
 
 microprogram: mikro program, Karşılık gelen donanım bileşenleri ile birlikte bir makine komutu ya da bir başka donanıma ait işlevin başarımını denetleyen mikro komutlar dizisi.
 
 microprogrammable computer: mikro programlanabilir bilgisayar, Mikro programların kullanıcı tarafından yaratılıp değiştirilebildiği bilgisayar.
 
-microprogramming:mikro programlama, Mikro komutlar kullanan programlama. NOT: Mikro programlama, makine komutlarını gerçekleştirmek için gerekli denetim sinyallerini kablo ile gerçekleştirmeye bir alternatiftir.
+microprogramming: mikro programlama, Mikro komutlar kullanan programlama. NOT: Mikro programlama, makine komutlarını gerçekleştirmek için gerekli denetim sinyallerini kablo ile gerçekleştirmeye bir alternatiftir.
 
 millions of instructions per second: saniyede milyon işlem, Saniyede bir milyon işletime eşit olan işlem hızı ölçme birimi.
 
@@ -3529,13 +3499,13 @@ model-based expert system: model tabanlı uzman sistem, Bir alan modelinin yapı
 
 model-based synthesis: model tabanlı sentezleme, Konuşma sinyalleri üretmek için bir konuşma ürün modeli kullanan konuşma sentezleme metodu.
 
-model-driven inference modelden faydalanarak sonuç çıkarma, Bir etki alanı modelini kullanan sonuç çıkarma. NOT: Aynı zamanda model tabanlı uzman sisteme bakınız.
+model-driven inference: modelden faydalanarak sonuç çıkarma, Bir etki alanı modelini kullanan sonuç çıkarma. NOT: Aynı zamanda model tabanlı uzman sisteme bakınız.
 
 modem: modem, Sinyalleri modüle eden ve ters modüle ederek eski haline getiren fonksiyonel birim. NOT 1: Bir modem genellikle sayısal sinyallerin örneksel iletim imkânları üzerinden aktarılmasına olanak sağlamak için kullanılır. NOT 2: "Modem" kelimesi, İngilizce MOdulator ve DEModulator kelimelerinin kısaltılmasıdır.
 
 moderated conference: aracılı konferans, Katılımcıların, iletileri kabul eden, düzenleyen veya reddeden bir yönlendirici aracılığı ile bu iletileri birbirine gönderdiği bilgisayar konferansı.
 
-modifiability:değiştirilebilirlik, Bir programa yapılabilecek değişikliklerin kolaylığının bir ölçüsü.
+modifiability: değiştirilebilirlik, Bir programa yapılabilecek değişikliklerin kolaylığının bir ölçüsü.
 
 modified frequency modulation recording: değiştirilmiş frekans kiplenimli kaydetme, Bir biri içeren bir hücre merkezindeki ve her biri sıfır içeren iki hücre sınırındaki mıknatıslanma durumunda bir değişiklik olan sola dönüşsüz kaydetme.
 
@@ -3633,7 +3603,7 @@ n.a ry encoding: n-li kodlama, Herhangi bir anda bir sinyalin iki veya daha fazl
 
 natural language: doğal dil, Kuralları özel bir tanımlama yapmaksızın halihazırdaki kullanıma dayalı olan bir dil.
 
-natural number: doğal sayı, Doğal .sayı, sıfır; bir, iki, ...... sayılarından biridir. NOT:: Bazen doğal sayılar 1’den başlar şeklinde tanımlanmaktadır.
+natural number: doğal sayı, Doğal .sayı, sıfır; bir, iki, ...... sayılarından biridir. NOT: Bazen doğal sayılar 1’den başlar şeklinde tanımlanmaktadır.
 
 natural-language understanding: doğal dil anlama, Bir işlevsel birim tarafından doğal dilde iletişim kurulan metin veya konuşmadan ve hem verilen metin ya da konuşma hem de onun neyi temsil ettiğine ilişkin tanım yapılmasından bilgi çıkarılması.
 
@@ -3691,7 +3661,7 @@ nines complement: dokuzun tümleyeni, Ondalık sistemde eksik kök tümleyeni.
 
 no-break space: bölünemeyen boşluk, etinişleyicinin bölemeyeceği bir karakter dizisinde özel bir karakter tarafından temsil edilen boşluk. ÖRNEK: 12 000 sayısındaki boşluk ya da IV. Murat ifadesindeki boşluk. NOT: Bölünemeyen boşluk bir gömülü komut tarafından da gerçekleştirilebilir.
 
-node: düğüm, 1. (Veri iletişiminde) Bir ağda, bir veya daha fazla varlığa bağlanan nokta. NOT 1: Ağ topolojisinde veya ana hatları ile yapılmış bir düzenlemede, düğümler şema üzerindeki noktalardır. Bir bilgisayar ağında, düğümler bilgisayarlar veya veri iletişim cihazlarıdır. NOT 2: Bir ağ, uç düğümleri ve ara düğümleri ihtiva edebilir. NOT 3:. Şekil 18.2'ye bakınız. 2. (Veri düzenlemesinde) Veri yapılarında, ikincil elemanların oluştuğu kaynaktan elde edilen bir nokta. NOT: Bir düğüm hiçbir ikincil eleman içermeyebilir ve böylece son düğüm olarak adlandırılır.
+node: düğüm, 1. (Veri iletişiminde) Bir ağda, bir veya daha fazla varlığa bağlanan nokta. NOT 1: Ağ topolojisinde veya ana hatları ile yapılmış bir düzenlemede, düğümler şema üzerindeki noktalardır. Bir bilgisayar ağında, düğümler bilgisayarlar veya veri iletişim cihazlarıdır. NOT 2: Bir ağ, uç düğümleri ve ara düğümleri ihtiva edebilir. NOT 3: . Şekil 18.2'ye bakınız. 2. (Veri düzenlemesinde) Veri yapılarında, ikincil elemanların oluştuğu kaynaktan elde edilen bir nokta. NOT: Bir düğüm hiçbir ikincil eleman içermeyebilir ve böylece son düğüm olarak adlandırılır.
 
 noise: gürültü, Bir sinyali etkileyebilen ve sinyal tarafından taşınan bilgiyi bozabilen girişim.
 
@@ -3701,7 +3671,7 @@ nominal transfer rate: anma iletim oranı, Herbir zaman biriminde teorik olarak 
 
 nonadd function: ilave etmeme işlevi, Kağıda yazan hesap makinesinde, esaplamaları etkilemeksizin karakterlerin yazılmasına izin veren bir işlev.
 
-non-affirmation:onaylamama, (Elektronik postada) Bir ileti aktarma temsilcisinin, bir ileti aktarma sisteminin bir sorgulamada tanımlanan herhangi bir iletiyi kendi anlık alıcılarından birine dağıtamayacağına karar verdiği aktarım olayı. NOT: Bu durumda, ileti aktarma temsilcisi bir dağıtım raporu üretebilir.
+non-affirmation: onaylamama, (Elektronik postada) Bir ileti aktarma temsilcisinin, bir ileti aktarma sisteminin bir sorgulamada tanımlanan herhangi bir iletiyi kendi anlık alıcılarından birine dağıtamayacağına karar verdiği aktarım olayı. NOT: Bu durumda, ileti aktarma temsilcisi bir dağıtım raporu üretebilir.
 
 non-conjunction: birleşimsiz işlem, VE DEĞİL işlemi, yalnız ve yalnız her işlem gören terim «1 Boole değeri»ne sahipse, ikili Boole işleminin sonucu Boole değeri olarak sıfır olan işlemdir.
 
@@ -3751,9 +3721,9 @@ normal mode rejection: normal mod reddetme, Bir yükselteçnin, normal mod geril
 
 normal mode voltage: normal mod gerilimi, Bir yükseltecin iki giriş bağlantısı arasında oluşan ve orijinal sinyalin gerilimine eklenen istenmeyen gerilim miktarı.
 
-normalization:normalizasyon, (Veri tabanlarında) Bir ilişkiyi, referansgösterilenbütünlüğü desteklemek için tutarsız ve mükerrer nitelik bulundurmayan daha basit bir veya daha fazla ilişkilere dönüştüren işlem.
+normalization: normalizasyon, (Veri tabanlarında) Bir ilişkiyi, referansgösterilenbütünlüğü desteklemek için tutarsız ve mükerrer nitelik bulundurmayan daha basit bir veya daha fazla ilişkilere dönüştüren işlem.
 
-normalize: normalize etmek, 1. (f.) (Kayan nokta gösterim sisteminde) Temsil edilen gerçek sayı değişmeksizin, önceden tanımlanmış bir değer kümesini sağlamak amacıyla bir kayan noktalı göstermede sabit nokta kısmındaki ayarlama ve buna karşılık gelen kayan noktalı göstermede üssü ayarlama. ÖRNEK: Sabit nokta kısmını 1-9.99......... aralığına yerleştirmek için kayan noktalı gösterme 123:45 X 102 1.2345 x 104 ile normalize edilebilir. 2. Temsil edilen gerçel sayı değişmeden kalmak üzere, mantisi tavsiye edilen belirli bir sınır içine getirmek için bir kayan nokta gösteriminde mantis ve üs için ilgili ayarlamaları yapmak. NOT: Sıfır sayısı normalize edilemez.
+normalize: normalize etmek, 1. (f.) (Kayan nokta gösterim sisteminde) Temsil edilen gerçek sayı değişmeksizin, önceden tanımlanmış bir değer kümesini sağlamak amacıyla bir kayan noktalı göstermede sabit nokta kısmındaki ayarlama ve buna karşılık gelen kayan noktalı göstermede üssü ayarlama. ÖRNEK: Sabit nokta kısmını 1-9.99......... aralığına yerleştirmek için kayan noktalı gösterme 123: 45 X 102 1.2345 x 104 ile normalize edilebilir. 2. Temsil edilen gerçel sayı değişmeden kalmak üzere, mantisi tavsiye edilen belirli bir sınır içine getirmek için bir kayan nokta gösteriminde mantis ve üs için ilgili ayarlamaları yapmak. NOT: Sıfır sayısı normalize edilemez.
 
 normalized device coordinate: normalize edilmiş cihaz koordinatı, Ara koordinat sistemi içinde tanımlanan ve bazı sınırlar ile, özellikle 0 ile 1 arasında normalleştirilen cihaz koordinatı. NOT 1: Normalleştirilmiş cihaz koordinatları içinde gösterilen ekran gösterimi herhangi bir cihaz uzayı üzerindeki aynı göreceli konuma yerleşir. NOT 2: Şekil 1'e bakınız.
 
@@ -3769,9 +3739,9 @@ notation: notasyon, Veri gösterimi için semboller ve bunların kullanımı iç
 
 NOT-IF-THEN gate: NOT-IF-THEN geçidi, Dışlama Boole işlemini gerçekleştiren geçit.
 
-NRZ-0:, bkz. non-return-to- zero change-on-zeros recording
+NRZ-0: , bkz. non-return-to- zero change-on-zeros recording
 
-NRZ-1:, bkz. non-return-to- zero change-on-ones recording
+NRZ-1: , bkz. non-return-to- zero change-on-ones recording
 
 nucleus: çekirdek, Yerleşik kontrol programı, ana bellekte yerleşen bir bilgisayar programının parçasıdır.
 
@@ -3945,7 +3915,7 @@ OSI enviroment: OSI ortamı, OSI referans modeli tarafından tanımlandığı ü
 
 OSI management: OSI yönetimi, OSI ortamında iletişimin gerçekleşmesine olanak sağlayan kaynakları denetleme, eşgüdüm sağlama ve izleme olanakları.
 
-out-basket:giden ileti kutusu, Giden elektronik postayı içeren ve gönderilmiş olan postayı içerebilen posta kutusu.
+out-basket: giden ileti kutusu, Giden elektronik postayı içeren ve gönderilmiş olan postayı içerebilen posta kutusu.
 
 outline representation: ana hatları ile temsil, Bir nesnenin saklı çizgileri ihmal edilerek tel çerçeve ile gösterimi.
 
@@ -3983,7 +3953,7 @@ owner record: üst kayıt, (Bir ağ modelinde) Bir kümedeki tüm diğer kayıtl
 
 pack: sıkıştırmak, (f.) Depolama ortamının ve verinin bilinen özelliklerinden de yararlanılarak orijinal şeklinin geri alınabileceği şekilde, verinin yoğun bir biçime dönüştürülmesi. ÖRNEK: Sıkıştırma yapılmadığında boş kalacak olan bit ve bayt yerlerinin kullanımının sağlanması.
 
-package:paket,  (Programlama dillerinde) Veri türleri, bu veri türlerinin veri nesneleri ve bu veri türlerinin parametrelerine sahip alt programlar gibi mantıksal olarak ilişkili dil yapılarının grubu yoluyla bilgi gizlemeyi, veriyi özetlemeyi veya kısa hale getirmeyi sağlamak için tasarlanmış modül.
+package: paket,  (Programlama dillerinde) Veri türleri, bu veri türlerinin veri nesneleri ve bu veri türlerinin parametrelerine sahip alt programlar gibi mantıksal olarak ilişkili dil yapılarının grubu yoluyla bilgi gizlemeyi, veriyi özetlemeyi veya kısa hale getirmeyi sağlamak için tasarlanmış modül.
 
 package declaration: paket bildirimi, Belirtimleri paketin dışında olması istenilen, ara yüz oluşturma ya da derleme amacı ile dil yapılarının ayrı bildirimi.
 
@@ -4109,7 +4079,7 @@ phase jitter: faz kıpırdaması, Önemli aralığın bir parçası olarak ifade
 
 phase modulation recording: evre kiplenimli kaydetme, Her bellek hücresinin karşıt yönlerden mıknatıslanan iki bölgeye bölündüğü manyetik kaydetme. Bu yönlerin dizisi, gösterilen ikili karakterin sıfır veya bir olup olmadığını belirtir. NOT: Şekil 12.2’ye bakınız.
 
-phase shift keying PSK: faz kaydırma anahtarlaması, Bir sayısal sinyal düzenleyicinin önceden belirlenmiş sabit sayıda değerler arasında çıkış sinyalinin fazını değiştirdiği modülasyon. NOT:Şekil 9.3'e bakınız.
+phase shift keying PSK: faz kaydırma anahtarlaması, Bir sayısal sinyal düzenleyicinin önceden belirlenmiş sabit sayıda değerler arasında çıkış sinyalinin fazını değiştirdiği modülasyon. NOT: Şekil 9.3'e bakınız.
 
 phase-continuous frequency shift keying: faz sürekli frekans kaydırma anahtarlaması, Önceden belirlenen frekanslar arasındaki geçişin, geçişte faz değişiminin olmadığı bir değişim frekansı tarafından yapıldığı anahtar değişim frekansı. NOT: Faz sürekli frekans kaydırma anahtarlaması, bir frekansın bir düğme tarafından yapılabilen başka bir frekans tarafından kesintili olarak yer değiştirilmesi işlemi ile farklı olabilir.
 
@@ -4143,7 +4113,7 @@ pick device: seçme cihazı, Bir veya daha fazla görüntü öğesini belirlemek
 
 pictorial character: resimsel karakter, Kutular, şekiller, logolar ya da diyagramlar gibi basit grafikleri düzenlemek için kullanılabilen önceden tanımlanmış karakter kümelerinden biri.
 
-picture:görünüm,  (Programlama dillerinde) Bir karakter hazır bilgi modeli yoluyla veri nesnelerinin dizgi türünde biçimini tanımlayan dil yapısı.
+picture: görünüm,  (Programlama dillerinde) Bir karakter hazır bilgi modeli yoluyla veri nesnelerinin dizgi türünde biçimini tanımlayan dil yapısı.
 
 piggyback entry: kaçak giriş, Yetkili kullanıcının yasal bağlantıları yolu ile bir veri işlem sistemine yetkisiz erişim.
 
@@ -4181,7 +4151,7 @@ pointing device: işaretleme aygıtı, Bir sembolü veya imleçi ekran üzerinde
 
 point-to-point connection: noktadan noktaya bağlantı, İki veri istasyonu arasında tesis edilen bir bağlantı.
 
-polarized return-to-zero recording: kutuplanmış sıfıra dönüşlü kaydetme, Sıfırların bir yöndeki mıknatıslanmayla ve birlerin karşıt yöndeki mıknatıslanmayla gösterildiği sıfıra dönüşlü kaydetme biçimi. NOT:Şekil 12.2'ye bakınız.
+polarized return-to-zero recording: kutuplanmış sıfıra dönüşlü kaydetme, Sıfırların bir yöndeki mıknatıslanmayla ve birlerin karşıt yöndeki mıknatıslanmayla gösterildiği sıfıra dönüşlü kaydetme biçimi. NOT: Şekil 12.2'ye bakınız.
 
 polling: çağrı, Veri istasyonlarının iletim yapmak için bir zaman aralığında bir defa davet edildikleri işlem. NOT: Genellikle çoklu bağlantı üzerinde kullanılırken, çağrı iki nokta arasındaki bağlantı üzerinde kullanılır.
 
@@ -4203,8 +4173,7 @@ position: konum, Bir dizideki bir elemanın konumu.
 
 positional notation: konumsal gösterim, Bir sayının, sıralı bir rakamlar kümesi ile gösterildiği ve bu gösterimdeki her bir rakamın katkısının o rakamın değeri ve konumu ile ilişkili olduğu numaralama sistemi.
 
-positional parameter association:
-konumsal parametre ilişkilendirilmesi, Bir alt program çağırmasında, gerçek parametreler ile biçimsel parametrelerin bir alt programın bildirimindeki aynı sırada birbirine uygun olması. NOT: İsimlendirilmiş parametre ilişkilendirilmesi ile farklıdır.
+positional parameter association: konumsal parametre ilişkilendirilmesi, Bir alt program çağırmasında, gerçek parametreler ile biçimsel parametrelerin bir alt programın bildirimindeki aynı sırada birbirine uygun olması. NOT: İsimlendirilmiş parametre ilişkilendirilmesi ile farklıdır.
 
 positional representation: konumsal gösterim, Bir sayının konumsal notasyonda gösterimi.
 
@@ -4728,7 +4697,7 @@ remote operations service element: uzaktan işlemler hizmet öğesi, İşlemleri
 
 rendering: betimleme, Bir görüntünün geometrisini, rengini, temel yapısını, parlaklığını ve diğer niteliklerini bir ekran görüntüsüne dönüştürme.
 
-reorganization: yeniden düzenlenme, İçerdiği gerçek veri yapılarına göre ya da gerçek veri yapılarına daha iyi uyumunu sağlamaküzere bir veri tabanının depolama düzenlemesinin değiştirilmesi.NOT:Yeniden düzenleme, veriye erişimi hızlandırmak veya depolama cihazının daha etkin kullanılmasını temin etmek amacı ile yapılabilir.
+reorganization: yeniden düzenlenme, İçerdiği gerçek veri yapılarına göre ya da gerçek veri yapılarına daha iyi uyumunu sağlamaküzere bir veri tabanının depolama düzenlemesinin değiştirilmesi.NOT: Yeniden düzenleme, veriye erişimi hızlandırmak veya depolama cihazının daha etkin kullanılmasını temin etmek amacı ile yapılabilir.
 
 repeater: tekrarlayıcı, Bir yerel alan ağı içinde, veri istasyonları arasında iletişim sınırını genişletmek ya da iki bölüm arasında bağlantı yapmak için sinyalleri yükselten ve yeniden üreten cihaz.
 
@@ -4892,9 +4861,7 @@ ruler line: cetvel satırı, Sağ ve sol sayfa boşluğu ile herhangi bir sekmen
 
 run: çalıştırma, , 1. (İş) Bir veya daha fazla işin yürütülmesi. 2. (Program) Bir veya daha fazla programın yürütülmesi.
 
-run-length encoding: çalışma-süresi kodlama, Her birinin eşit değerli elemanlar dizisinin uzunluğunu
-
-temsil ettiği sayı serisi türüden tanımlanan bir sayısal veri akımının kodlanması. ÖRNEK: Aynı gri gölgeye sahip olan bir satır içindeki her görüntü öğesi sırasının bir büyüklük değeri ve uzunluk değeri olarak gösterildiği sayısal kodlama. NOT: Çalışma-süresi kodlamanın amacı depolama ve/veya iletim gereksinimlerini azaltmaktır.
+run-length encoding: çalışma-süresi kodlama, Her birinin eşit değerli elemanlar dizisinin uzunluğunu temsil ettiği sayı serisi türüden tanımlanan bir sayısal veri akımının kodlanması. ÖRNEK: Aynı gri gölgeye sahip olan bir satır içindeki her görüntü öğesi sırasının bir büyüklük değeri ve uzunluk değeri olarak gösterildiği sayısal kodlama. NOT: Çalışma-süresi kodlamanın amacı depolama ve/veya iletim gereksinimlerini azaltmaktır.
 
 running: çalışıyor (Niteleyici), Görevin o anda bir işlemciye atandığı bir yürütülebilir görevin görev durumuna ait. NOT: Şekil 7.7’ye bakınız.
 
@@ -4934,9 +4901,7 @@ scheduled maintenance: planlanmış bakım, Belirli bir zaman planına göre yü
 
 schema: şema, 1. (Yapay zekada) Basit bir kavram, varlık ya da nesne sınıfını hakkındaki bilginin olası kullanımları yoluyla temsil etmek için bir biçimsellik. NOT: Bir şema bir kavramı kullanan yolları gösterir, kavramın tipik örneklerini tanımlamaz.
 
-scientific visualization: bilimsel görselleştirme, Bilgisayar grafiklerinin ve görüntü işleminin insan anlayışını desteklemek için nesnelerin
-
-veya işlemlerin özelliklerini veya modelleri sunmak amacıyla kullanılması. ÖRNEK: Bir tümörün manyetik rezonans taramalarının birleşimiyle oluşturulan ekran görüntüsü; sıcaklık derecesi bilgilerini gösteren bir gölün üst ve kenar görüntüleri; kalpteki iki boyutlu elektrik dalgaları modeli.
+scientific visualization: bilimsel görselleştirme, Bilgisayar grafiklerinin ve görüntü işleminin insan anlayışını desteklemek için nesnelerin veya işlemlerin özelliklerini veya modelleri sunmak amacıyla kullanılması. ÖRNEK: Bir tümörün manyetik rezonans taramalarının birleşimiyle oluşturulan ekran görüntüsü; sıcaklık derecesi bilgilerini gösteren bir gölün üst ve kenar görüntüleri; kalpteki iki boyutlu elektrik dalgaları modeli.
 
 scope: bir bildirimin kapsamı, İçinde bildirimin geçerli olduğu program parçası.
 
@@ -5048,7 +5013,7 @@ separation of duties: görevlerin ayrılması, Hassas bilgiye ait sorumluluklar�
 
 separator: ayırıcı, Bitişik sözcüksel işaretleri ve söz dizimsel birimleri tek bir parça gibi yorumlanmasını engelleyen ayırıcı. ÖRNEK: Boşluk karakteri veya bir biçim gerçekleştirici. NOT: Ayırıcının tersi.
 
-sequence:sıra,  Sıradüzenlenmiş öğelerin dizisi.
+sequence: sıra,  Sıradüzenlenmiş öğelerin dizisi.
 
 sequence: sıralamak, (f.) Doğal sayıların sırasına uygun olan bir düzen içinde öğeleri yerleştirmek. NOT: Diğer doğrusal düzenleri doğal sayılarla eşleştirmek için yöntem ya da yordamlar tanımlanabilir. Bu durumun bir uzantısı olarak sıradüzenleme kronolojik ya da alfabetik olabilir.
 
@@ -5158,9 +5123,7 @@ single-cable broadband LAN: tek kablolu geniş bantlı LAN, Hem ileri iletim LAN
 
 single-layer perceptron: tek katmanlı perceptron, Tek bir işlevin giriş değerlerinin doğrusal bir birleşimine uygulanması ile belirlenen bir ikili çıkış değeri ve hata düzeltme öğrenmesi olan bir yapay sinirden oluşan sinir ağı. NOT 1: Tek katmanlı perceptron çok boyutlu bir düzlem tarafından ayrılan iki karar bölgesi oluşturur. NOT 2: Tek katmanlı perceptron, ikili giriş değerleri için eşitsizlik işlemini (ÖZEL VEYA) gerçekleştiremez.
 
-single-layered network: tek katmanlı ağ, Gizli katmanlar olmaksızın, yalnızca kaynak düğümler ve çıkış katmanına sahip olan katmanlı ağ.
-
-NOT: Tek katmanlı bir ağda, yalnızca çıkış katmanı hesaplama yapar.
+single-layered network: tek katmanlı ağ, Gizli katmanlar olmaksızın, yalnızca kaynak düğümler ve çıkış katmanına sahip olan katmanlı ağ. NOT: Tek katmanlı bir ağda, yalnızca çıkış katmanı hesaplama yapar.
 
 single-level device: tek seviyeli aygıt, Belirli bir anda sadece tek bir güvenlik seviyesinde veriyi işleme tabi tutan fonksiyonel birim.
 
@@ -5208,7 +5171,7 @@ software tool: yazılım aracı, Bir program ya da dokümantasyonunun geliştirm
 
 solid modeling: hacimsel modelleme, Bir nesnenin dış şekilleri kadar iç yapısını da göstermek için onun katı özellikleri ile ilgili üç boyutlu geometrik modelleme.
 
-solution space:çözüm uzayı, Belirli bir problemin çözümlerini oluşturan durumların tümü tarafından tanımlanan kavramsal ya da biçimsel alan.
+solution space: çözüm uzayı, Belirli bir problemin çözümlerini oluşturan durumların tümü tarafından tanımlanan kavramsal ya da biçimsel alan.
 
 sonogram: sonogram, Bir zaman fonksiyonu olarak frekansları ve karşılık gelen genlikleri gösteren bir akustik sinyalin grafiksel gösterimi.
 
@@ -5232,15 +5195,15 @@ space character: boşluk karakteri, Herhangi bir grafik karakteri üretmeksizin 
 
 span: aralık, Bir büyüklük veya fonksiyonun alabileceği en düşük ve en yüksek değerler arasındaki fark.
 
-speaker adaptation konuşmacı uyumu, Tanıma modellerini otomatik olarak değiştirmek için konuşmacıya ait ek konuşma örneklerine dayanan bir sisteme izin veren konuşma tanıma metodu. NOT: Uyarlamalı eğitimi ve konuşmacı uyarlamalı sisteme de bakınız.
+speaker adaptation: konuşmacı uyumu, Tanıma modellerini otomatik olarak değiştirmek için konuşmacıya ait ek konuşma örneklerine dayanan bir sisteme izin veren konuşma tanıma metodu. NOT: Uyarlamalı eğitimi ve konuşmacı uyarlamalı sisteme de bakınız.
 
 speaker dependence: konuşmacı bağımlılığı, Bir konuşma tanıyıcının, bireysel kullanıcıların konuşma örüntüleriyle eğitilmeye duyduğu gereksinimin derecesi.
 
 speaker identification: konuşmacı tanımlama, Bir ses örneğini, konuşanı belirlemek için farklı kişilere karşılık gelen bir ses imzaları kümesi ile karşılaştıran konuşmacı tanıma biçimi.
 
-speaker recognition:konuşmacı tanıma, Bir insan sesinin bazı akustik özelliklerinin çözümlenmesiyle belirli bir konuşmacı hakkında bilgi elde etme süreci.
+speaker recognition: konuşmacı tanıma, Bir insan sesinin bazı akustik özelliklerinin çözümlenmesiyle belirli bir konuşmacı hakkında bilgi elde etme süreci.
 
-speaker verification:konuşmacı doğrulama, Bir konuşma örneğinin, iddia edilen kişi tarafından yapılıp yapılmadığına karar vermek için konuşmacı tanıma biçimi. NOT: Konuşmacı doğrulama, temel olarak bilgi, tesis veya binalara erişimi sınırlamak için kullanılır.
+speaker verification: konuşmacı doğrulama, Bir konuşma örneğinin, iddia edilen kişi tarafından yapılıp yapılmadığına karar vermek için konuşmacı tanıma biçimi. NOT: Konuşmacı doğrulama, temel olarak bilgi, tesis veya binalara erişimi sınırlamak için kullanılır.
 
 speaker-adaptive system: konuşmacı uyarlamalı sistem, Konuşma örnekleri arasındaki farkı izlemek ve başarımı geliştirmek için konuşma şablonunudüzenleyebilenve güncelleyebilen konuşmacıdan bağımsız sistem. NOT: Başarım geliştirme yeteneği bir çeşit öğrenmedir.
 
@@ -5272,17 +5235,17 @@ speech bandwidth: konuşma bant genişliği, Belirli bir sistem tarafından ilet
 
 speech clipping: konuşma kısaltma, Tepe sinyallerini bir en büyük genlik değerine sınırlama ya da belirli bir genlik değerinden daha küçük sinyallerin sıfıra indirilmesi.
 
-speech coding konuşma kodlama, Ses sinyalinin uygun bir şekilde yeniden yapılandırılmasına izin veren bir kurallar kümesine göre sayısallaştırılmış konuşma sinyalinin, bir ayrık veri öğeleri dizisine dönüştürülmesi. NOT: Konuşma sayısallaştırma, konuşma sıkıştırma ile ilişkilendirilebilir. "Konuşma kodlama" terimi genelde her ikisinide içeren bir işlem için kullanılır.
+speech coding: konuşma kodlama, Ses sinyalinin uygun bir şekilde yeniden yapılandırılmasına izin veren bir kurallar kümesine göre sayısallaştırılmış konuşma sinyalinin, bir ayrık veri öğeleri dizisine dönüştürülmesi. NOT: Konuşma sayısallaştırma, konuşma sıkıştırma ile ilişkilendirilebilir. "Konuşma kodlama" terimi genelde her ikisinide içeren bir işlem için kullanılır.
 
-speech compressionkonuşma sıkıştırma, Daha dar bir frekans bandı üzerinde bir konuşma sinyalini iletmek veya depolamak ya da normal olarak gerekli olan bit miktarından daha az miktarda bit kullanmak için bir konuşma işleme tekniği. ÖRNEKLER: Tahmin kodlaması, alt bant kodlaması, formantları kullanarak şifreleme.
+speech compression: konuşma sıkıştırma, Daha dar bir frekans bandı üzerinde bir konuşma sinyalini iletmek veya depolamak ya da normal olarak gerekli olan bit miktarından daha az miktarda bit kullanmak için bir konuşma işleme tekniği. ÖRNEKLER: Tahmin kodlaması, alt bant kodlaması, formantları kullanarak şifreleme.
 
-speechdigitizing:konuşma sayısallaştırma, Analog konuşma sinyallerinin sayısal sinyallere dönüştürülmesi.
+speechdigitizing: konuşma sayısallaştırma, Analog konuşma sinyallerinin sayısal sinyallere dönüştürülmesi.
 
 speech frequency: konuşma frekansı, Konuşmayı kaydetme ya da iletim için gerekli olan aralıkta bir frekans.
 
 speech input: konuşma girdisi, Bir işlevsel birim tarafından alınan konuşma sinyalleri dizisi.
 
-speech intelligibility:konuşma anlaşılabilirliği, Genellikle konuşma birimlerinin yüzdesi olarak ölçülebilen bir konuşma çıktısının doğru bir şekilde anlaşılabilmesi özelliği.
+speech intelligibility: konuşma anlaşılabilirliği, Genellikle konuşma birimlerinin yüzdesi olarak ölçülebilen bir konuşma çıktısının doğru bir şekilde anlaşılabilmesi özelliği.
 
 speech output: konuşma çıktısı, Bir işlevsel birim tarafından üretilen ya da yeniden üretilen konuşma sinyallerinin önceden kaydedilmiş veya sentezlenmiş dizisi.
 
@@ -5300,7 +5263,7 @@ speech signal: konuşma sinyali, Belirli bir dilde bilgi taşıyan akustik sinya
 
 speech spectrogram: konuşma spektrogramı, Bir konuşmanın frekans özelliklerinin grafiksel gösterimi. NOT: Konuşma spektrogramları genellikle konuşma tanımada temel araştırma araçlarıdır.
 
-speech synthesis:konuşmayı sentezleme, Yapay konuşma üretimi.
+speech synthesis: konuşmayı sentezleme, Yapay konuşma üretimi.
 
 speech synthesizer: konuşma sentezleyici, Konuşma sentezleme için kullanılan işlevsel birim.
 
@@ -5540,7 +5503,7 @@ symmetric cryptography: simetrik şifreleme, Şifreleme ve şifre çözme için 
 
 symmetrical list: simetrik liste, İçindeki her bir elemanın bir sonraki elemanın konumunu belirlemek için ayrıca bir veri içerdiği bir bağlı liste.
 
-synchronization:eşzamanlama, İki ya da daha fazla asenkron yordamın yürütülmesinin ortak zamanlama ve eş güdümünü sağlama eylemi.
+synchronization: eşzamanlama, İki ya da daha fazla asenkron yordamın yürütülmesinin ortak zamanlama ve eş güdümünü sağlama eylemi.
 
 synchronous: zaman uyumlu, Ortak zamanlama sinyalleri gibi belirli olayların ortay çıkmasına bağlı olan bir veya daha fazla işleme ait olan.
 
@@ -5556,9 +5519,7 @@ syntax-directed editor: sözdizim yönelimli düzenleyici, Özel bir programlama
 
 synthesis: sentez, (Yapay zekada) Bir işlevsel birim tarafından yapay ses, metin, müzik ve görüntülerin üretilmesi.
 
-synthesisbyparametric representation: parametrik gösterimle
-
-sentezleme, Konuşma sinyalinden, dalga ve uyarma genlikleri gibi zamana ve frekans parametrelerine dayalı olan konuşma ürünü için bir model elde eden konuşma sentezleme metodu. NOT: Doğrudan dalga biçimli sentezlemenin aksine, parametrik gösterimle sentezleme mesaj başına depolama gereksinimlerini azaltır.
+synthesis by parametric representation: parametrik gösterimle sentezleme, Konuşma sinyalinden, dalga ve uyarma genlikleri gibi zamana ve frekans parametrelerine dayalı olan konuşma ürünü için bir model elde eden konuşma sentezleme metodu. NOT: Doğrudan dalga biçimli sentezlemenin aksine, parametrik gösterimle sentezleme mesaj başına depolama gereksinimlerini azaltır.
 
 system analysis: sistem analizi, Sistemin bilgi gereksinimleri ve işlemlerini ve bunlarının birbiri ile ya da başka bir sistemle nasıl ilişkileneceğini belirlemek için gerçek ya da planlanan bir sistemin incelenmesi.
 
@@ -5604,7 +5565,7 @@ tape spool: şerit öbeği, Üzerine şeritlerin sarılabildiği kenarlıksız s
 
 target language: hedef dil, Bir çeviricinin kendi sonuçlarını ifade ettiği dil.
 
-target machine: hedef makine 1. Bir programın yürütülmesinin amaçlandığı bilgisayar. NOT: Ana makine (1) tanımına bakınız. 2. Bir başka bilgisayar tarafından taklit edilen bilgisayar. NOT: Ana makine (2) tanımına bakınız.
+target machine: hedef makine, 1. Bir programın yürütülmesinin amaçlandığı bilgisayar. NOT: Ana makine (1) tanımına bakınız. 2. Bir başka bilgisayar tarafından taklit edilen bilgisayar. NOT: Ana makine (2) tanımına bakınız.
 
 target program: hedef program, Bir kaynak programın çevrilmiş sürümü.
 
@@ -5626,13 +5587,11 @@ telefax: telefaks, bkz. fax (1)
 
 teletex: teleteks, Aboneler arasında harf kalitesinde iletişim sağlayan elektronik posta hizmeti. NOT 1: Teleteks, teleksin geliştirilmiş sürümüdür. Teleteks, teleksten daha yüksek bir hızda hem büyük harf hem de küçük harf iletim sağlar.
 
-teletext: teletekst, Haberler, hava durumu raporları ve reklamları doğrudan bir abonenin televizyon
-
-sistemine sağlayan yayın hizmeti. NOT: Abone teletekst sinyallerini almak için özel bir kod çözücüye sahip olmalıdır.
+teletext: teletekst, Haberler, hava durumu raporları ve reklamları doğrudan bir abonenin televizyon sistemine sağlayan yayın hizmeti. NOT: Abone teletekst sinyallerini almak için özel bir kod çözücüye sahip olmalıdır.
 
 telex: teleks, Teleks aygıtları veya teleks ile uyumlu aygıtlar arasında metin iletimi için kullanılan açık anahtarlama hizmeti.
 
-template:şablon,  Tanımlanacak bir varlığın parçası veya tamamı ile karşılaştırılan bir başvuru örüntüsü. ÖRNEK: Şablonlar karakter tanıma, hedef bulma, konuşma tanıma vb. işlemler için kullanılır.
+template: şablon, Tanımlanacak bir varlığın parçası veya tamamı ile karşılaştırılan bir başvuru örüntüsü. ÖRNEK: Şablonlar karakter tanıma, hedef bulma, konuşma tanıma vb. işlemler için kullanılır.
 
 template matching: şablon eşleştirme, Bir şablon kullanarak örüntü eşleştirme.
 
@@ -5710,7 +5669,7 @@ ticket: bilet – etiket, (Bilgisayar güvenliğinde) Bir işlemcinin bir nesney
 
 tile: döşeme, 1. Bir bölgeyi doldurmak amacı ile x ve y koordinatlarında bir piksel haritasının kopyalanarak çoğaltılması. 2. Döşeme yoluyla üretilen bir pencere.
 
-tilling: pencereleri tuğla gibi döşeme, Görüntü uzayının iki veya daha fazla ayrık pencereye (1) bölünmesi.NOT:Pencere kadamelendirmenin tersi.
+tilling: pencereleri tuğla gibi döşeme, Görüntü uzayının iki veya daha fazla ayrık pencereye (1) bölünmesi.NOT: Pencere kadamelendirmenin tersi.
 
 time bomb: zaman bombası, Önceden belirlenmiş bir zamana gelindiğinde faaliyete geçirilecek olan mantıksal bomba.
 
@@ -5904,7 +5863,7 @@ underflow indication: eksik gelme işareti, Bir hesap makinesinde eksik gelme du
 
 underline: altını çizmek, (f.) Bir karakterin ya da bir grup karakterin hemen altında bir çizgi göstermek ya da yazdırmak.
 
-understandability:anlaşılabilirlik, Bir kişinin bir programı okuyabileceği, gerçek yaşam veri ve algoritmalarına eşleşen çözümdeki veri yapıları ya da veri nesneleri ve algoritmaların yalıtımının kolaylık ölçüsü.
+understandability: anlaşılabilirlik, Bir kişinin bir programı okuyabileceği, gerçek yaşam veri ve algoritmalarına eşleşen çözümdeki veri yapıları ya da veri nesneleri ve algoritmaların yalıtımının kolaylık ölçüsü.
 
 undo: son yapılan işlemi geri alma, Kullanıcının, en son gerçekleştirdiği komutu ya da komutları iptal etmesine olanak sağlayan işlev. NOT: Bazı komutların geri alınması mümkün değildir.
 
@@ -6052,9 +6011,9 @@ vocoder: ses kodlayıcı, Başlangıçkonuşmasinyalinin anlaşılabilirolarakye
 
 voice: ses - insan sesi, Gırtlakta üretilen ve ağızdan çıkarılan ses.
 
-voice commandses komutu, Bir işlevsel birim tarafından bir komut olarak anlaşılabilen konuşma girdisi. NOT: Kullanıcı, ayrılmış sözcükler veya küçük bir sözlükten elde edilen sözcük sıraları biçiminde ses komutları verebilir.
+voice command: ses komutu, Bir işlevsel birim tarafından bir komut olarak anlaşılabilen konuşma girdisi. NOT: Kullanıcı, ayrılmış sözcükler veya küçük bir sözlükten elde edilen sözcük sıraları biçiminde ses komutları verebilir.
 
-voice control ses kontrolü, Bir işlevsel birim ya da makinenin ses komutları aracılığıyla kontrolü. ÖRNEK: Bir otomobilin hız kontrolü ve dönüş sinyalleri.
+voice control: ses kontrolü, Bir işlevsel birim ya da makinenin ses komutları aracılığıyla kontrolü. ÖRNEK: Bir otomobilin hız kontrolü ve dönüş sinyalleri.
 
 voice control system: ses denetim sistemi, Konuşma girdisine tepki olarak, konuşma tanıyıcının bilgisayar kontrollü donanıma komutlar gönderdiği sistem. ÖRNEK: Hareket için basit ses komutlarına tepki veren bir robot.
 
@@ -6122,9 +6081,9 @@ widow line: yalnız satır, Bir paragrafın, bir sonraki sütuna ya da sayfada y
 
 window: pencere, 1. bkz. görüntü penceresi 2. Bir sanal uzayın önceden belirlenmiş parçası. NOT: Şekil 13.1'e bakınız.
 
-windowcascading:kademeli pencereleme,  Kademelendirilmiş pencerelerin üst üste gelecek şekilde oluşturulması. NOT: Pencereleri tuğla gibi döşemenin tersi.
+windowcascading: kademeli pencereleme,  Kademelendirilmiş pencerelerin üst üste gelecek şekilde oluşturulması. NOT: Pencereleri tuğla gibi döşemenin tersi.
 
-window/viewporttransformation: pencere/görüş bölümü dönüşümü, Bir pencerenin (2) sınırlarını ve içeriğini bir görüş bölümünün içerisine ve sınırlarının içine eşleştirme. NOT: Şekil 13.1'e bakınız.
+window/viewport transformation: pencere/görüş bölümü dönüşümü, Bir pencerenin (2) sınırlarını ve içeriğini bir görüş bölümünün içerisine ve sınırlarının içine eşleştirme. NOT: Şekil 13.1'e bakınız.
 
 windowing: pencere açma, Bir görüntü yüzeyi üzerinde pencerelerin (1) oluşturulması.
 
@@ -6134,7 +6093,7 @@ winner-takes-all network: kazanan- tümünü-alır ağı, Bir katmandaki en gü�
 
 winner-takes-more network: kazanan- daha-fazlasını-alır ağı, Giriş değeri ortalamanın üzerinde olan rekabet eden tüm yapay sinirlerin etkin kalabildiği sinir ağı. NOT: Kazanan-daha-fazlasını- alır ağı rekabete dayalı bir öğrenme türünü kullanır.
 
-wireframemodeling:çizgisel modelleme, Bir cismin yüzeyini çevreleyen çizgilerin bir kümesinin kullanılması ile nesnenin şeklinin temsil edildiği üç boyutlu geometrik modelleme.
+wireframemodeling: çizgisel modelleme, Bir cismin yüzeyini çevreleyen çizgilerin bir kümesinin kullanılması ile nesnenin şeklinin temsil edildiği üç boyutlu geometrik modelleme.
 
 wireframe representation: tel çerçeveli gösterim, Telli yapıya rağmen tamamen çizgilerle düzenlemiş olarak üç boyutlu bir nesnenin temsil edilmesi. NOT: Çizgiler gerçek bir nesne görünümünde gizlenebilen çizgileri de içeren görüntüdeki yüzey çizgi kenarları gösterebilir.
 
